@@ -1,0 +1,15 @@
+Dante arrives at store.
+Kirk arrives at store.
+6 items were processed
+$6678.399999999999 is in the cash register
+There were 3 total supplies ordered
+There were 3 total supplies ordered
+There are 18 items in the inventory.
+There is $1031.0 worth of value in the inventory.
+Clerk Dante sold 8 items today
+Trainer Kirk sold 2 items today
+Clerk Dante sold 1524.0$ worth of items today
+Trainer Kirk sold 327.79999999999995$ worth of items today
+There were 10 customers that visited the store today
+Kirk has left the store
+Dante has left the store

@@ -1,0 +1,3059 @@
+"C:\Program Files\Java\jdk-17.0.3.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2022.1.2\lib\idea_rt.jar=53984:C:\Program Files\JetBrains\IntelliJ IDEA 2022.1.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\justi\OneDrive - UCB-O365\Summer Semester 2022\CSCI 4448 Object-Oriented Analysis & Design\Project 3.0\out\production\Project 3.0" Main
+
+*** Simulation day 1 ***
+Store opens today, day 1
+Employee Dante is sick and can't work today
+Employee Jason is replacing them
+Jason is the clerk working today.
+Kirk is the trainer working today.
+Jason arrives at store.
+Kirk arrives at store.
+Jason is checking for deliveries.
+Kirk is feeding the animals...
+Jason checks: $0.00 in register.
+Cash register is low on funds.
+Jason gets money from the bank.
+Jason checks: $1,000.00 in register.
+Jason is doing inventory.
+Jason counts 3 dogs
+Jason counts 3 cats
+Jason counts 3 birds
+Jason counts 3 ferrets
+Jason counts 3 snakes
+Jason counts 3 catlitters
+Jason counts 3 foods
+Jason counts 3 leashs
+Jason counts 3 toyss
+Jason counts 3 treatss
+Jason finds 15 pets in store, worth $846.00
+Jason finds 15 supplies in store, worth $884.00
+The total worth of all items is: $1,730.00
+Kirk is training the animals...
+Kirk is trying to train Dog Dog 1
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Cat Cat 2
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method changed the housebroken trait of the pet.
+Kirk is trying to train Ferret Ferret 4
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Dog Dog 6
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method changed the housebroken trait of the pet.
+Kirk is trying to train Cat Cat 7
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Ferret Ferret 9
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Dog Dog 11
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Cat Cat 12
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method changed the housebroken trait of the pet.
+Kirk is trying to train Ferret Ferret 14
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Customer 1 is looking at Cat 2
+Customer is buying Cat 2 for $152.00 from clerk Jason
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Cat 2 is now $277.00
+Customer 1 is looking at SuppliesItem: 7
+Customer is buying SuppliesItem: 7 for $81.00 from trainer Kirk
+Customer 2 is looking at Dog 1
+Customer is buying Dog 1 for $127.80 from trainer Kirk
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Dog 1 is now $202.80
+Customer 2 is looking at SuppliesItem: 2
+Customer is buying SuppliesItem: 2 for $68.40 from trainer Kirk
+Customer 3 is looking at Bird 13
+Customer isn't buying Bird 13
+Customer 3 didn't buy a pet!
+Customer 3 is looking at SuppliesItem: 3
+Customer is buying SuppliesItem: 3 for $129.60 from trainer Kirk
+Customer 4 is looking at Bird 3
+Customer is buying Bird 3 for $151.20 from trainer Kirk
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Bird 3 is now $301.20
+Customer 4 is looking at SuppliesItem: 12
+Customer isn't buying SuppliesItem: 12
+Customer 4 didn't buy a item from supplies!
+Kirk cleans the cages.
+Jason vacuums the store.
+Kirk locks up the store and leaves.
+Jason locks up the store and leaves.
+File already exists.
+Tracker: Day 1
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           0                             0.0
+Randal                          0                             0.0
+Jason                           1                             277.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            0                             0.0
+Kirk                            5                             783.0000000000001
+Ricky                           0                             0.0
+
+
+*** Simulation day 2 ***
+Store opens today, day 2
+Dante is the clerk working today.
+Ricky is the trainer working today.
+Dante arrives at store.
+Ricky arrives at store.
+Dante is checking for deliveries.
+Ricky is feeding the animals...
+Dog 6 just got sick!
+Snake 10 just got sick!
+Dante checks: $2,060.00 in register.
+Dante is doing inventory.
+Dante counts 1 dogs
+Dante counts 2 cats
+Dante counts 2 birds
+Dante counts 3 ferrets
+Dante counts 2 snakes
+Dante counts 3 catlitters
+Dante counts 1 foods
+Dante counts 2 leashs
+Dante counts 3 toyss
+Dante counts 3 treatss
+Dante finds 10 pets in store, worth $508.00
+Dante finds 12 supplies in store, worth $729.00
+The total worth of all items is: $1,237.00
+Ricky is training the animals...
+Ricky is trying to train Ferret Ferret 4
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Cat Cat 7
+Pos Reinforcement training method changed the housebroken trait of the pet.
+Ricky is trying to train Ferret Ferret 9
+Pos Reinforcement training method changed the housebroken trait of the pet.
+Ricky is trying to train Dog Dog 11
+Pos Reinforcement training method changed the housebroken trait of the pet.
+Ricky is trying to train Cat Cat 12
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Ferret Ferret 14
+Pos Reinforcement training method changed the housebroken trait of the pet.
+Customer 1 is looking at Ferret 9
+Customer is buying Ferret 9 for $146.00 from clerk Dante
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Ferret 9 is now $171.00
+Customer 1 is looking at SuppliesItem: 11
+Customer is buying SuppliesItem: 11 for $134.00 from clerk Dante
+Customer 2 is looking at Cat 7
+Customer is buying Cat 7 for $122.40 from trainer Ricky
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Insurance added to Pet for $50
+Total price for Cat 7 is now $222.40
+Customer 2 is looking at SuppliesItem: 4
+Customer is buying SuppliesItem: 4 for $168.00 from clerk Dante
+Customer 3 is looking at Snake 5
+Customer is buying Snake 5 for $26.00 from clerk Dante
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Insurance added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Snake 5 is now $176.00
+Customer 3 is looking at SuppliesItem: 8
+Customer is buying SuppliesItem: 8 for $97.20 from trainer Ricky
+Customer 4 is looking at Dog 11
+Customer is buying Dog 11 for $106.00 from clerk Dante
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Dog 11 is now $181.00
+Customer 4 is looking at SuppliesItem: 12
+Customer is buying SuppliesItem: 12 for $96.00 from clerk Dante
+Ricky cleans the cages.
+Dante vacuums the store.
+Ricky locks up the store and leaves.
+Dante locks up the store and leaves.
+File already exists.
+Tracker: Day 2
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           6                             926.0
+Randal                          0                             0.0
+Jason                           2                             554.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            0                             0.0
+Kirk                            10                             1566.0000000000002
+Ricky                           2                             319.6
+
+
+*** Simulation day 3 ***
+Store opens today, day 3
+Dante is the clerk working today.
+Alpa is the trainer working today.
+Dante arrives at store.
+Alpa arrives at store.
+Dante is checking for deliveries.
+Alpa is feeding the animals...
+Dante checks: $3,305.60 in register.
+Dante is doing inventory.
+Dante counts 0 dogs
+Dante needs to order dogs
+Dante ordered a pet for $82.00
+Dante ordered a pet for $87.00
+Dante ordered a pet for $88.00
+Dante counts 1 cats
+Dante counts 2 birds
+Dante counts 2 ferrets
+Dante counts 1 snakes
+Dante counts 2 catlitters
+Dante counts 0 foods
+Dante needs to order foods
+Dante ordered a pet for $37.00
+Dante ordered a pet for $23.00
+Dante ordered a pet for $8.00
+Dante counts 1 leashs
+Dante counts 2 toyss
+Dante counts 3 treatss
+Dante finds 6 pets in store, worth $301.00
+Dante finds 8 supplies in store, worth $476.00
+The total worth of all items is: $777.00
+Alpa is training the animals...
+Alpa is trying to train Ferret Ferret 4
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Cat Cat 12
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Ferret Ferret 14
+Haphazard training method didn't change the housebroken trait of the pet.
+Customer 1 is looking at Bird 8
+Customer is buying Bird 8 for $54.00 from clerk Dante
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Bird 8 is now $129.00
+Customer 1 is looking at SuppliesItem: 1
+Customer is buying SuppliesItem: 1 for $8.00 from clerk Dante
+Customer 2 is looking at Ferret 4
+Customer is buying Ferret 4 for $27.00 from trainer Alpa
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Total price for Ferret 4 is now $77.00
+Customer 2 is looking at SuppliesItem: 14
+Customer is buying SuppliesItem: 14 for $147.60 from trainer Alpa
+Customer 3 didn't buy a pet!
+Customer 3 didn't buy a item from supplies!
+Alpa cleans the cages.
+Dante vacuums the store.
+Alpa locks up the store and leaves.
+Dante locks up the store and leaves.
+File already exists.
+Tracker: Day 3
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           14                             1989.0
+Randal                          0                             0.0
+Jason                           3                             831.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            2                             224.6
+Kirk                            15                             2349.0000000000005
+Ricky                           4                             639.2
+
+
+*** Simulation day 4 ***
+Store opens today, day 4
+Jason is the clerk working today.
+Kirk is the trainer working today.
+Jason arrives at store.
+Kirk arrives at store.
+Jason is checking for deliveries.
+Kirk is feeding the animals...
+Jason checks: $3,342.20 in register.
+Jason is doing inventory.
+Jason counts 0 dogs
+Jason needs to order dogs
+Jason ordered a pet for $12.00
+Jason ordered a pet for $96.00
+Jason ordered a pet for $89.00
+Jason counts 1 cats
+Jason counts 1 birds
+Jason counts 1 ferrets
+Jason counts 1 snakes
+Jason counts 1 catlitters
+Jason counts 0 foods
+Jason needs to order foods
+Jason ordered a pet for $26.00
+Jason ordered a pet for $99.00
+Jason ordered a pet for $86.00
+Jason counts 1 leashs
+Jason counts 1 toyss
+Jason counts 3 treatss
+Jason finds 4 pets in store, worth $259.00
+Jason finds 6 supplies in store, worth $390.00
+The total worth of all items is: $649.00
+Kirk is training the animals...
+Kirk is trying to train Cat Cat 12
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Ferret Ferret 14
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Customer 1 is looking at Snake 15
+Customer is buying Snake 15 for $96.00 from clerk Jason
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Snake 15 is now $171.00
+Customer 1 is looking at SuppliesItem: 13
+Customer is buying SuppliesItem: 13 for $116.00 from clerk Jason
+Customer 2 didn't buy a pet!
+Customer 2 didn't buy a item from supplies!
+Customer 3 is looking at Cat 12
+Customer is buying Cat 12 for $182.00 from clerk Jason
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Cat 12 is now $332.00
+Customer 3 didn't buy a item from supplies!
+Customer 4 didn't buy a pet!
+Customer 4 didn't buy a item from supplies!
+Customer 5 didn't buy a pet!
+Customer 5 didn't buy a item from supplies!
+Kirk cleans the cages.
+Jason vacuums the store.
+Kirk locks up the store and leaves.
+Jason locks up the store and leaves.
+File already exists.
+Tracker: Day 4
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           22                             3052.0
+Randal                          0                             0.0
+Jason                           7                             1727.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            4                             449.2
+Kirk                            20                             3132.0000000000005
+Ricky                           6                             958.8000000000001
+
+
+*** Simulation day 5 ***
+Store opens today, day 5
+Dante is the clerk working today.
+Alpa is the trainer working today.
+Dante arrives at store.
+Alpa arrives at store.
+Dante is checking for deliveries.
+Alpa is feeding the animals...
+Dog 6 just got healthy!
+Snake 10 just got healthy!
+Dante checks: $3,553.20 in register.
+Dante is doing inventory.
+Dante counts 1 dogs
+Dante counts 0 cats
+Dante needs to order cats
+Dante ordered a pet for $31.00
+Dante ordered a pet for $13.00
+Dante ordered a pet for $41.00
+Dante counts 1 birds
+Dante counts 1 ferrets
+Dante counts 1 snakes
+Dante counts 1 catlitters
+Dante counts 0 foods
+Dante needs to order foods
+Dante ordered a pet for $41.00
+Dante ordered a pet for $7.00
+Dante ordered a pet for $63.00
+Dante counts 0 leashs
+Dante needs to order leashs
+Dante ordered a pet for $24.00
+Dante ordered a pet for $47.00
+Dante ordered a pet for $78.00
+Dante counts 1 toyss
+Dante counts 3 treatss
+Dante finds 4 pets in store, worth $227.00
+Dante finds 5 supplies in store, worth $332.00
+The total worth of all items is: $559.00
+Alpa is training the animals...
+Alpa is trying to train Ferret Ferret 14
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Dog Dog 6
+Haphazard training method didn't change the housebroken trait of the pet.
+Customer 1 didn't buy a pet!
+Customer 1 didn't buy a item from supplies!
+Customer 2 is looking at Bird 13
+Customer is buying Bird 13 for $182.00 from clerk Dante
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Bird 13 is now $282.00
+Customer 2 is looking at SuppliesItem: 9
+Customer is buying SuppliesItem: 9 for $86.40 from trainer Alpa
+Customer 3 didn't buy a pet!
+Customer 3 didn't buy a item from supplies!
+Alpa cleans the cages.
+Dante vacuums the store.
+Alpa locks up the store and leaves.
+Dante locks up the store and leaves.
+File already exists.
+Tracker: Day 5
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           31                             4397.0
+Randal                          0                             0.0
+Jason                           11                             2623.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            7                             760.1999999999999
+Kirk                            25                             3915.0000000000005
+Ricky                           8                             1278.4
+
+
+*** Simulation day 6 ***
+Store opens today, day 6
+Dante is the clerk working today.
+Alpa is the trainer working today.
+Dante arrives at store.
+Alpa arrives at store.
+Dante is checking for deliveries.
+Dog 16 added to inventory.
+Dog 17 added to inventory.
+Dog 18 added to inventory.
+Dog 19 added to inventory.
+Dog 20 added to inventory.
+Dog 21 added to inventory.
+Cat 22 added to inventory.
+Cat 23 added to inventory.
+Cat 24 added to inventory.
+SuppliesItem: 16 added to inventory.
+SuppliesItem: 17 added to inventory.
+SuppliesItem: 18 added to inventory.
+SuppliesItem: 22 added to inventory.
+SuppliesItem: 23 added to inventory.
+SuppliesItem: 24 added to inventory.
+Alpa is feeding the animals...
+Dante checks: $3,576.60 in register.
+Dante is doing inventory.
+Dante counts 7 dogs
+Dante counts 3 cats
+Dante counts 0 birds
+Dante needs to order birds
+Dante ordered a pet for $13.00
+Dante ordered a pet for $18.00
+Dante ordered a pet for $78.00
+Dante counts 1 ferrets
+Dante counts 1 snakes
+Dante counts 1 catlitters
+Dante counts 6 foods
+Dante counts 0 leashs
+Dante needs to order leashs
+Dante ordered a pet for $23.00
+Dante ordered a pet for $100.00
+Dante ordered a pet for $87.00
+Dante counts 0 toyss
+Stock of TOYS is out, not ordering more.
+Dante counts 3 treatss
+Dante finds 12 pets in store, worth $675.00
+Dante finds 10 supplies in store, worth $463.00
+The total worth of all items is: $1,138.00
+Alpa is training the animals...
+Alpa is trying to train Ferret Ferret 14
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Dog Dog 6
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Dog Dog 16
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Dog Dog 17
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Dog Dog 18
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Dog Dog 19
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Dog Dog 20
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Dog Dog 21
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Cat Cat 22
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Cat Cat 23
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Cat Cat 24
+Haphazard training method changed the housebroken trait of the pet.
+Customer 1 is looking at Ferret 14
+Customer is buying Ferret 14 for $52.20 from trainer Alpa
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Total price for Ferret 14 is now $102.20
+Customer 1 is looking at SuppliesItem: 10
+Customer is buying SuppliesItem: 10 for $190.00 from clerk Dante
+Customer 2 is looking at Snake 10
+Customer is buying Snake 10 for $40.00 from clerk Dante
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Snake 10 is now $140.00
+Customer 2 didn't buy a item from supplies!
+Customer 3 is looking at Dog 19
+Customer isn't buying Dog 19
+Customer 3 is looking at Dog 21
+Customer isn't buying Dog 21
+Customer 3 didn't buy a pet!
+Customer 3 is looking at SuppliesItem: 17
+Customer is buying SuppliesItem: 17 for $41.40 from trainer Alpa
+Customer 4 is looking at Dog 17
+Customer isn't buying Dog 17
+Customer 4 didn't buy a pet!
+Customer 4 didn't buy a item from supplies!
+Alpa cleans the cages.
+Dante vacuums the store.
+Alpa locks up the store and leaves.
+Dante locks up the store and leaves.
+File already exists.
+Tracker: Day 6
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           42                             6072.0
+Randal                          0                             0.0
+Jason                           15                             3519.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            12                             1214.8
+Kirk                            30                             4698.000000000001
+Ricky                           10                             1598.0
+
+
+*** Simulation day 7 ***
+Store opens today, day 7
+Jason is the clerk working today.
+Ricky is the trainer working today.
+Jason arrives at store.
+Ricky arrives at store.
+Jason is checking for deliveries.
+Bird 25 added to inventory.
+Bird 26 added to inventory.
+Bird 27 added to inventory.
+SuppliesItem: 19 added to inventory.
+SuppliesItem: 20 added to inventory.
+SuppliesItem: 21 added to inventory.
+SuppliesItem: 25 added to inventory.
+SuppliesItem: 26 added to inventory.
+SuppliesItem: 27 added to inventory.
+Ricky is feeding the animals...
+Cat 22 just got sick!
+Jason checks: $3,731.20 in register.
+Jason is doing inventory.
+Jason counts 7 dogs
+Jason counts 2 cats
+Jason counts 3 birds
+Jason counts 0 ferrets
+Jason needs to order ferrets
+Jason ordered a pet for $51.00
+Jason ordered a pet for $67.00
+Jason ordered a pet for $26.00
+Jason counts 0 snakes
+Jason needs to order snakes
+Jason ordered a pet for $82.00
+Jason ordered a pet for $49.00
+Jason ordered a pet for $95.00
+Jason counts 1 catlitters
+Jason counts 8 foods
+Jason counts 3 leashs
+Jason counts 0 toyss
+Stock of TOYS is out, not ordering more.
+Jason counts 2 treatss
+Jason finds 12 pets in store, worth $704.00
+Jason finds 14 supplies in store, worth $705.00
+The total worth of all items is: $1,409.00
+Ricky is training the animals...
+Ricky is trying to train Dog Dog 6
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Dog Dog 16
+Pos Reinforcement training method changed the housebroken trait of the pet.
+Ricky is trying to train Dog Dog 17
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Dog Dog 18
+Pos Reinforcement training method changed the housebroken trait of the pet.
+Ricky is trying to train Dog Dog 19
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Dog Dog 20
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Dog Dog 21
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Cat Cat 23
+Pos Reinforcement training method changed the housebroken trait of the pet.
+Ricky is trying to train Cat Cat 24
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Customer 1 is looking at Dog 6
+Customer is buying Dog 6 for $174.00 from clerk Jason
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Dog 6 is now $224.00
+Customer 1 didn't buy a item from supplies!
+Customer 2 is looking at Cat 23
+Customer is buying Cat 23 for $26.00 from clerk Jason
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Insurance added to Pet for $50
+Total price for Cat 23 is now $126.00
+Customer 2 is looking at SuppliesItem: 25
+Customer is buying SuppliesItem: 25 for $48.00 from clerk Jason
+Customer 3 is looking at Dog 16
+Customer is buying Dog 16 for $147.60 from trainer Ricky
+Customer purchased the Add-On listed below for the pet:
+Insurance added to Pet for $50
+Total price for Dog 16 is now $197.60
+Customer 3 is looking at SuppliesItem: 16
+Customer is buying SuppliesItem: 16 for $66.60 from trainer Ricky
+Customer 4 didn't buy a pet!
+Customer 4 didn't buy a item from supplies!
+Customer 5 is looking at Bird 26
+Customer is buying Bird 26 for $32.40 from trainer Ricky
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Total price for Bird 26 is now $82.40
+Customer 5 is looking at SuppliesItem: 19
+Customer is buying SuppliesItem: 19 for $46.80 from trainer Ricky
+Ricky cleans the cages.
+Jason vacuums the store.
+Ricky locks up the store and leaves.
+Jason locks up the store and leaves.
+File already exists.
+Tracker: Day 7
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           53                             7747.0
+Randal                          0                             0.0
+Jason                           22                             4813.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            17                             1669.3999999999999
+Kirk                            35                             5481.000000000001
+Ricky                           16                             2311.0
+
+
+*** Simulation day 8 ***
+Store opens today, day 8
+Randal is the clerk working today.
+Kirk is the trainer working today.
+Randal arrives at store.
+Kirk arrives at store.
+Randal is checking for deliveries.
+Snake 31 added to inventory.
+Snake 32 added to inventory.
+Snake 33 added to inventory.
+SuppliesItem: 28 added to inventory.
+SuppliesItem: 29 added to inventory.
+SuppliesItem: 30 added to inventory.
+Kirk is feeding the animals...
+Randal checks: $4,152.60 in register.
+Randal is doing inventory.
+Randal counts 5 dogs
+Randal counts 1 cats
+Randal counts 2 birds
+Randal counts 0 ferrets
+Randal needs to order ferrets
+Randal ordered a pet for $44.00
+Randal ordered a pet for $22.00
+Randal ordered a pet for $8.00
+Randal counts 3 snakes
+Randal counts 1 catlitters
+Randal counts 6 foods
+Randal counts 5 leashs
+Randal counts 0 toyss
+Stock of TOYS is out, not ordering more.
+Randal counts 2 treatss
+Randal finds 11 pets in store, worth $730.00
+Randal finds 14 supplies in store, worth $828.00
+The total worth of all items is: $1,558.00
+Kirk is training the animals...
+Kirk is trying to train Dog Dog 17
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method changed the housebroken trait of the pet.
+Kirk is trying to train Dog Dog 18
+Neg Reinforcement training method changed the housebroken trait of the pet.
+Kirk is trying to train Dog Dog 19
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Dog Dog 20
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method changed the housebroken trait of the pet.
+Kirk is trying to train Dog Dog 21
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Cat Cat 24
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Customer 1 is looking at Dog 19
+Customer is buying Dog 19 for $24.00 from clerk Randal
+Customer purchased the Add-On listed below for the pet:
+Insurance added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Dog 19 is now $174.00
+Customer 1 is looking at SuppliesItem: 23
+Customer is buying SuppliesItem: 23 for $14.00 from clerk Randal
+Customer 2 is looking at Snake 33
+Customer is buying Snake 33 for $171.00 from trainer Kirk
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Insurance added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Snake 33 is now $371.00
+Customer 2 is looking at SuppliesItem: 6
+Customer isn't buying SuppliesItem: 6
+Customer 2 is looking at SuppliesItem: 21
+Customer isn't buying SuppliesItem: 21
+Customer 2 didn't buy a item from supplies!
+Customer 3 didn't buy a pet!
+Customer 3 is looking at SuppliesItem: 26
+Customer is buying SuppliesItem: 26 for $94.00 from clerk Randal
+Customer 4 didn't buy a pet!
+Customer 4 is looking at SuppliesItem: 20
+Customer is buying SuppliesItem: 20 for $198.00 from clerk Randal
+Kirk cleans the cages.
+Randal vacuums the store.
+Kirk locks up the store and leaves.
+Randal locks up the store and leaves.
+File already exists.
+Tracker: Day 8
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           64                             9422.0
+Randal                          4                             480.0
+Jason                           29                             6107.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            22                             2124.0
+Kirk                            41                             6635.000000000001
+Ricky                           22                             3024.0
+
+
+*** Simulation day 9 ***
+Store opens today, day 9
+Randal is the clerk working today.
+Alpa is the trainer working today.
+Randal arrives at store.
+Alpa arrives at store.
+Randal is checking for deliveries.
+Ferret 28 added to inventory.
+Ferret 29 added to inventory.
+Ferret 30 added to inventory.
+Alpa is feeding the animals...
+Snake 31 just got sick!
+Randal checks: $4,929.60 in register.
+Randal is doing inventory.
+Randal counts 4 dogs
+Randal counts 1 cats
+Randal counts 2 birds
+Randal counts 3 ferrets
+Randal counts 1 snakes
+Randal counts 1 catlitters
+Randal counts 4 foods
+Randal counts 4 leashs
+Randal counts 0 toyss
+Stock of TOYS is out, not ordering more.
+Randal counts 2 treatss
+Randal finds 11 pets in store, worth $685.00
+Randal finds 11 supplies in store, worth $675.00
+The total worth of all items is: $1,360.00
+Alpa is training the animals...
+Alpa is trying to train Dog Dog 17
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Dog Dog 18
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Dog Dog 20
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Dog Dog 21
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Cat Cat 24
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Ferret Ferret 28
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Ferret Ferret 29
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Ferret Ferret 30
+Haphazard training method didn't change the housebroken trait of the pet.
+Customer 1 is looking at Bird 27
+Customer is buying Bird 27 for $140.40 from trainer Alpa
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Insurance added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Bird 27 is now $290.40
+Customer 1 didn't buy a item from supplies!
+Customer 2 is looking at Dog 21
+Customer is buying Dog 21 for $178.00 from clerk Randal
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Insurance added to Pet for $50
+Total price for Dog 21 is now $278.00
+Customer 2 is looking at SuppliesItem: 27
+Customer is buying SuppliesItem: 27 for $140.40 from trainer Alpa
+Customer 3 is looking at Cat 24
+Customer is buying Cat 24 for $82.00 from clerk Randal
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Cat 24 is now $107.00
+Customer 3 is looking at SuppliesItem: 28
+Customer is buying SuppliesItem: 28 for $46.00 from clerk Randal
+Customer 4 didn't buy a pet!
+Customer 4 didn't buy a item from supplies!
+Customer 5 didn't buy a pet!
+Customer 5 is looking at SuppliesItem: 18
+Customer isn't buying SuppliesItem: 18
+Customer 5 is looking at SuppliesItem: 29
+Customer is buying SuppliesItem: 29 for $180.00 from trainer Alpa
+Alpa cleans the cages.
+Randal vacuums the store.
+Alpa locks up the store and leaves.
+Randal locks up the store and leaves.
+File already exists.
+Tracker: Day 9
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           75                             11097.0
+Randal                          11                             1391.0
+Jason                           36                             7401.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            30                             3189.3999999999996
+Kirk                            47                             7789.000000000001
+Ricky                           28                             3737.0
+
+
+*** Simulation day 10 ***
+Store opens today, day 10
+Randal is the clerk working today.
+Alpa is the trainer working today.
+Randal arrives at store.
+Alpa arrives at store.
+Randal is checking for deliveries.
+Alpa is feeding the animals...
+Randal checks: $5,971.40 in register.
+Randal is doing inventory.
+Randal counts 3 dogs
+Randal counts 0 cats
+Randal needs to order cats
+Randal ordered a pet for $100.00
+Randal ordered a pet for $89.00
+Randal ordered a pet for $76.00
+Randal counts 1 birds
+Randal counts 3 ferrets
+Randal counts 1 snakes
+Randal counts 1 catlitters
+Randal counts 4 foods
+Randal counts 1 leashs
+Randal counts 0 toyss
+Stock of TOYS is out, not ordering more.
+Randal counts 2 treatss
+Randal finds 8 pets in store, worth $477.00
+Randal finds 8 supplies in store, worth $474.00
+The total worth of all items is: $951.00
+Alpa is training the animals...
+Alpa is trying to train Dog Dog 17
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Dog Dog 18
+Haphazard training method changed the housebroken trait of the pet.
+Alpa is trying to train Dog Dog 20
+Haphazard training method changed the housebroken trait of the pet.
+Alpa is trying to train Ferret Ferret 28
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Ferret Ferret 29
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Ferret Ferret 30
+Haphazard training method didn't change the housebroken trait of the pet.
+Customer 1 is looking at Dog 17
+Customer is buying Dog 17 for $156.60 from trainer Alpa
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Dog 17 is now $306.60
+Customer 1 is looking at SuppliesItem: 30
+Customer is buying SuppliesItem: 30 for $174.00 from clerk Randal
+Customer 2 is looking at Ferret 30
+Customer is buying Ferret 30 for $52.00 from clerk Randal
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Ferret 30 is now $77.00
+Customer 2 is looking at SuppliesItem: 6
+Customer is buying SuppliesItem: 6 for $106.00 from clerk Randal
+Customer 3 didn't buy a pet!
+Customer 3 didn't buy a item from supplies!
+Customer 4 didn't buy a pet!
+Customer 4 didn't buy a item from supplies!
+Customer 5 didn't buy a pet!
+Customer 5 didn't buy a item from supplies!
+Customer 6 is looking at Dog 18
+Customer is buying Dog 18 for $158.40 from trainer Alpa
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Dog 18 is now $308.40
+Customer 6 didn't buy a item from supplies!
+Alpa cleans the cages.
+Randal vacuums the store.
+Alpa locks up the store and leaves.
+Randal locks up the store and leaves.
+File already exists.
+Tracker: Day 10
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           86                             12772.0
+Randal                          21                             2659.0
+Jason                           43                             8695.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            40                             4869.799999999999
+Kirk                            53                             8943.000000000002
+Ricky                           34                             4450.0
+
+
+*** Simulation day 11 ***
+Store opens today, day 11
+Randal has worked maximum of 3 days in a row.
+Dante is the clerk working today.
+Kirk is the trainer working today.
+Dante arrives at store.
+Kirk arrives at store.
+Dante is checking for deliveries.
+Ferret 34 added to inventory.
+Ferret 35 added to inventory.
+Ferret 36 added to inventory.
+Cat 37 added to inventory.
+Cat 38 added to inventory.
+Cat 39 added to inventory.
+Kirk is feeding the animals...
+Snake 31 just got healthy!
+Dante checks: $6,678.40 in register.
+Dante is doing inventory.
+Dante counts 1 dogs
+Dante counts 3 cats
+Dante counts 1 birds
+Dante counts 5 ferrets
+Dante counts 2 snakes
+Dante counts 0 catlitters
+Dante needs to order catlitters
+Dante ordered a pet for $53.00
+Dante ordered a pet for $57.00
+Dante ordered a pet for $44.00
+Dante counts 4 foods
+Dante counts 0 leashs
+Dante needs to order leashs
+Dante ordered a pet for $11.00
+Dante ordered a pet for $33.00
+Dante ordered a pet for $21.00
+Dante counts 0 toyss
+Stock of TOYS is out, not ordering more.
+Dante counts 2 treatss
+Dante finds 12 pets in store, worth $697.00
+Dante finds 6 supplies in store, worth $334.00
+The total worth of all items is: $1,031.00
+Kirk is training the animals...
+Kirk is trying to train Dog Dog 20
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method changed the housebroken trait of the pet.
+Kirk is trying to train Ferret Ferret 28
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Ferret Ferret 29
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Ferret Ferret 34
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method changed the housebroken trait of the pet.
+Kirk is trying to train Ferret Ferret 35
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Ferret Ferret 36
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method changed the housebroken trait of the pet.
+Kirk is trying to train Cat Cat 37
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Cat Cat 38
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Cat Cat 39
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Customer 1 is looking at Ferret 29
+Customer is buying Ferret 29 for $134.00 from clerk Dante
+Total price for Ferret 29 is now $134.00
+Customer 1 didn't buy a item from supplies!
+Customer 2 is looking at Ferret 35
+Customer is buying Ferret 35 for $39.60 from trainer Kirk
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Total price for Ferret 35 is now $89.60
+Customer 2 didn't buy a item from supplies!
+Customer 3 is looking at Ferret 34
+Customer is buying Ferret 34 for $88.00 from clerk Dante
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Ferret 34 is now $213.00
+Customer 3 didn't buy a item from supplies!
+Customer 4 is looking at Snake 32
+Customer is buying Snake 32 for $88.20 from trainer Kirk
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Snake 32 is now $238.20
+Customer 4 didn't buy a item from supplies!
+Customer 5 didn't buy a pet!
+Customer 5 is looking at SuppliesItem: 5
+Customer is buying SuppliesItem: 5 for $128.00 from clerk Dante
+Customer 6 didn't buy a pet!
+Customer 6 didn't buy a item from supplies!
+Customer 7 is looking at Cat 37
+Customer is buying Cat 37 for $200.00 from clerk Dante
+Total price for Cat 37 is now $200.00
+Customer 7 didn't buy a item from supplies!
+Customer 8 is looking at Dog 20
+Customer is buying Dog 20 for $192.00 from clerk Dante
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Dog 20 is now $292.00
+Customer 8 is looking at SuppliesItem: 22
+Customer is buying SuppliesItem: 22 for $82.00 from clerk Dante
+Customer 9 didn't buy a pet!
+Customer 9 didn't buy a item from supplies!
+Customer 10 is looking at Cat 38
+Customer is buying Cat 38 for $178.00 from clerk Dante
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Cat 38 is now $303.00
+Customer 10 is looking at SuppliesItem: 21
+Customer is buying SuppliesItem: 21 for $172.00 from clerk Dante
+Kirk cleans the cages.
+Dante vacuums the store.
+Kirk locks up the store and leaves.
+Dante locks up the store and leaves.
+File already exists.
+Tracker: Day 11
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           105                             15971.0
+Randal                          31                             3927.0
+Jason                           50                             9989.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            50                             6550.2
+Kirk                            61                             10424.800000000001
+Ricky                           40                             5163.0
+
+
+*** Simulation day 12 ***
+Store opens today, day 12
+Randal is the clerk working today.
+Alpa is the trainer working today.
+Randal arrives at store.
+Alpa arrives at store.
+Randal is checking for deliveries.
+SuppliesItem: 31 added to inventory.
+SuppliesItem: 32 added to inventory.
+SuppliesItem: 33 added to inventory.
+SuppliesItem: 34 added to inventory.
+SuppliesItem: 35 added to inventory.
+SuppliesItem: 36 added to inventory.
+Alpa is feeding the animals...
+Cat 22 just got healthy!
+Randal checks: $8,311.20 in register.
+Randal is doing inventory.
+Randal counts 0 dogs
+Randal needs to order dogs
+Randal ordered a pet for $74.00
+Randal ordered a pet for $73.00
+Randal ordered a pet for $32.00
+Randal counts 2 cats
+Randal counts 1 birds
+Randal counts 2 ferrets
+Randal counts 1 snakes
+Randal counts 3 catlitters
+Randal counts 2 foods
+Randal counts 3 leashs
+Randal counts 0 toyss
+Stock of TOYS is out, not ordering more.
+Randal counts 1 treatss
+Randal finds 6 pets in store, worth $261.00
+Randal finds 9 supplies in store, worth $362.00
+The total worth of all items is: $623.00
+Alpa is training the animals...
+Alpa is trying to train Ferret Ferret 28
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Ferret Ferret 36
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Cat Cat 39
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Cat Cat 22
+Haphazard training method didn't change the housebroken trait of the pet.
+Customer 1 is looking at Cat 39
+Customer isn't buying Cat 39
+Customer 1 didn't buy a pet!
+Customer 1 is looking at SuppliesItem: 32
+Customer is buying SuppliesItem: 32 for $114.00 from clerk Randal
+Customer 2 is looking at Cat 39
+Customer is buying Cat 39 for $136.80 from trainer Alpa
+Total price for Cat 39 is now $136.80
+Customer 2 didn't buy a item from supplies!
+Customer 3 didn't buy a pet!
+Customer 3 didn't buy a item from supplies!
+Customer 4 didn't buy a pet!
+Customer 4 didn't buy a item from supplies!
+Customer 5 didn't buy a pet!
+Customer 5 is looking at SuppliesItem: 18
+Customer is buying SuppliesItem: 18 for $16.00 from clerk Randal
+Alpa cleans the cages.
+Cat 22 has escaped during cage cleaning!
+Alpa caught the escaped pet!
+Randal vacuums the store.
+Alpa locks up the store and leaves.
+Randal locks up the store and leaves.
+File already exists.
+Tracker: Day 12
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           124                             19170.0
+Randal                          43                             5325.0
+Jason                           57                             11283.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            61                             8367.4
+Kirk                            69                             11906.6
+Ricky                           46                             5876.0
+
+
+*** Simulation day 13 ***
+Store opens today, day 13
+Randal is the clerk working today.
+Alpa is the trainer working today.
+Randal arrives at store.
+Alpa arrives at store.
+Randal is checking for deliveries.
+Alpa is feeding the animals...
+Randal checks: $8,399.00 in register.
+Randal is doing inventory.
+Randal counts 0 dogs
+Randal needs to order dogs
+Randal ordered a pet for $26.00
+Randal ordered a pet for $62.00
+Randal ordered a pet for $87.00
+Randal counts 1 cats
+Randal counts 1 birds
+Randal counts 2 ferrets
+Randal counts 1 snakes
+Randal counts 2 catlitters
+Randal counts 1 foods
+Randal counts 3 leashs
+Randal counts 0 toyss
+Stock of TOYS is out, not ordering more.
+Randal counts 1 treatss
+Randal finds 5 pets in store, worth $185.00
+Randal finds 7 supplies in store, worth $297.00
+The total worth of all items is: $482.00
+Alpa is training the animals...
+Alpa is trying to train Ferret Ferret 28
+Haphazard training method changed the housebroken trait of the pet.
+Alpa is trying to train Ferret Ferret 36
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Cat Cat 22
+Haphazard training method didn't change the housebroken trait of the pet.
+Customer 1 is looking at Bird 25
+Customer is buying Bird 25 for $26.00 from clerk Randal
+Customer purchased the Add-On listed below for the pet:
+Insurance added to Pet for $50
+Total price for Bird 25 is now $76.00
+Customer 1 is looking at SuppliesItem: 24
+Customer is buying SuppliesItem: 24 for $113.40 from trainer Alpa
+Customer 2 didn't buy a pet!
+Customer 2 is looking at SuppliesItem: 33
+Customer is buying SuppliesItem: 33 for $88.00 from clerk Randal
+Alpa cleans the cages.
+Randal vacuums the store.
+Alpa locks up the store and leaves.
+Randal locks up the store and leaves.
+File already exists.
+Tracker: Day 13
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           143                             22369.0
+Randal                          57                             6887.0
+Jason                           64                             12577.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            73                             10297.999999999998
+Kirk                            77                             13388.4
+Ricky                           52                             6589.0
+
+
+*** Simulation day 14 ***
+Store opens today, day 14
+Randal is the clerk working today.
+Kirk is the trainer working today.
+Randal arrives at store.
+Kirk arrives at store.
+Randal is checking for deliveries.
+Dog 40 added to inventory.
+Dog 41 added to inventory.
+Dog 42 added to inventory.
+Kirk is feeding the animals...
+Randal checks: $8,501.40 in register.
+Randal is doing inventory.
+Randal counts 3 dogs
+Randal counts 1 cats
+Randal counts 0 birds
+Randal needs to order birds
+Randal ordered a pet for $33.00
+Randal ordered a pet for $87.00
+Randal ordered a pet for $73.00
+Randal counts 2 ferrets
+Randal counts 1 snakes
+Randal counts 1 catlitters
+Randal counts 0 foods
+Randal needs to order foods
+Randal ordered a pet for $80.00
+Randal ordered a pet for $29.00
+Randal ordered a pet for $86.00
+Randal counts 3 leashs
+Randal counts 0 toyss
+Stock of TOYS is out, not ordering more.
+Randal counts 1 treatss
+Randal finds 7 pets in store, worth $351.00
+Randal finds 5 supplies in store, worth $190.00
+The total worth of all items is: $541.00
+Kirk is training the animals...
+Kirk is trying to train Ferret Ferret 28
+Neg Reinforcement training method changed the housebroken trait of the pet.
+Kirk is trying to train Ferret Ferret 36
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Cat Cat 22
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method changed the housebroken trait of the pet.
+Kirk is trying to train Dog Dog 40
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method changed the housebroken trait of the pet.
+Kirk is trying to train Dog Dog 41
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Dog Dog 42
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Customer 1 didn't buy a pet!
+Customer 1 didn't buy a item from supplies!
+Customer 2 is looking at Ferret 28
+Customer is buying Ferret 28 for $91.80 from trainer Kirk
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Ferret 28 is now $166.80
+Customer 2 is looking at SuppliesItem: 15
+Customer is buying SuppliesItem: 15 for $144.00 from clerk Randal
+Customer 3 didn't buy a pet!
+Customer 3 didn't buy a item from supplies!
+Customer 4 is looking at Dog 42
+Customer is buying Dog 42 for $57.60 from trainer Kirk
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Dog 42 is now $107.60
+Customer 4 didn't buy a item from supplies!
+Customer 5 didn't buy a pet!
+Customer 5 didn't buy a item from supplies!
+Customer 6 didn't buy a pet!
+Customer 6 is looking at SuppliesItem: 36
+Customer is buying SuppliesItem: 36 for $37.80 from trainer Kirk
+Kirk cleans the cages.
+Randal vacuums the store.
+Kirk locks up the store and leaves.
+Randal locks up the store and leaves.
+File already exists.
+Tracker: Day 14
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           162                             25568.0
+Randal                          72                             8593.0
+Jason                           71                             13871.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            85                             12228.599999999997
+Kirk                            88                             15182.4
+Ricky                           58                             7302.0
+
+
+*** Simulation day 15 ***
+Store opens today, day 15
+Randal has worked maximum of 3 days in a row.
+Dante is the clerk working today.
+Kirk is the trainer working today.
+Dante arrives at store.
+Kirk arrives at store.
+Dante is checking for deliveries.
+Kirk is feeding the animals...
+Dante checks: $8,569.60 in register.
+Dante is doing inventory.
+Dante counts 2 dogs
+Dante counts 1 cats
+Dante counts 0 birds
+Dante needs to order birds
+Dante ordered a pet for $34.00
+Dante ordered a pet for $83.00
+Dante ordered a pet for $19.00
+Dante counts 1 ferrets
+Dante counts 1 snakes
+Dante counts 1 catlitters
+Dante counts 0 foods
+Dante needs to order foods
+Dante ordered a pet for $75.00
+Dante ordered a pet for $55.00
+Dante ordered a pet for $32.00
+Dante counts 2 leashs
+Dante counts 0 toyss
+Stock of TOYS is out, not ordering more.
+Dante counts 0 treatss
+Dante needs to order treatss
+Dante ordered a pet for $63.00
+Dante ordered a pet for $34.00
+Dante ordered a pet for $90.00
+Dante finds 5 pets in store, worth $268.00
+Dante finds 3 supplies in store, worth $97.00
+The total worth of all items is: $365.00
+Kirk is training the animals...
+Kirk is trying to train Ferret Ferret 36
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Cat Cat 22
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Dog Dog 40
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Dog Dog 41
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method changed the housebroken trait of the pet.
+Customer 1 didn't buy a pet!
+Customer 1 is looking at SuppliesItem: 34
+Customer is buying SuppliesItem: 34 for $19.80 from trainer Kirk
+Customer 2 didn't buy a pet!
+Customer 2 didn't buy a item from supplies!
+Customer 3 is looking at Dog 40
+Customer is buying Dog 40 for $148.00 from clerk Dante
+Customer purchased the Add-On listed below for the pet:
+Insurance added to Pet for $50
+Total price for Dog 40 is now $198.00
+Customer 3 didn't buy a item from supplies!
+Customer 4 is looking at Ferret 36
+Customer is buying Ferret 36 for $16.00 from clerk Dante
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Total price for Ferret 36 is now $66.00
+Customer 4 didn't buy a item from supplies!
+Customer 5 didn't buy a pet!
+Customer 5 didn't buy a item from supplies!
+Kirk cleans the cages.
+Dante vacuums the store.
+Kirk locks up the store and leaves.
+Dante locks up the store and leaves.
+File already exists.
+Tracker: Day 15
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           183                             29031.0
+Randal                          87                             10299.0
+Jason                           78                             15165.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            97                             14159.199999999995
+Kirk                            100                             16996.2
+Ricky                           64                             8015.0
+
+
+*** Simulation day 16 ***
+Store opens today, day 16
+Jason is the clerk working today.
+Alpa is the trainer working today.
+Jason arrives at store.
+Alpa arrives at store.
+Jason is checking for deliveries.
+Dog 43 added to inventory.
+Dog 44 added to inventory.
+Dog 45 added to inventory.
+Bird 46 added to inventory.
+Bird 47 added to inventory.
+Bird 48 added to inventory.
+Alpa is feeding the animals...
+Jason checks: $8,368.40 in register.
+Jason is doing inventory.
+Jason counts 4 dogs
+Jason counts 1 cats
+Jason counts 3 birds
+Jason counts 0 ferrets
+Jason needs to order ferrets
+Jason ordered a pet for $79.00
+Jason ordered a pet for $3.00
+Jason ordered a pet for $14.00
+Jason counts 1 snakes
+Jason counts 1 catlitters
+Jason counts 0 foods
+Jason needs to order foods
+Jason ordered a pet for $91.00
+Jason ordered a pet for $69.00
+Jason ordered a pet for $96.00
+Jason counts 1 leashs
+Jason counts 0 toyss
+Stock of TOYS is out, not ordering more.
+Jason counts 0 treatss
+Jason needs to order treatss
+Jason ordered a pet for $7.00
+Jason ordered a pet for $2.00
+Jason ordered a pet for $36.00
+Jason finds 9 pets in store, worth $554.00
+Jason finds 2 supplies in store, worth $86.00
+The total worth of all items is: $640.00
+Alpa is training the animals...
+Alpa is trying to train Cat Cat 22
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Dog Dog 41
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Dog Dog 43
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Dog Dog 44
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Dog Dog 45
+Haphazard training method didn't change the housebroken trait of the pet.
+Customer 1 didn't buy a pet!
+Customer 1 is looking at SuppliesItem: 35
+Customer is buying SuppliesItem: 35 for $66.00 from clerk Jason
+Customer 2 is looking at Snake 31
+Customer isn't buying Snake 31
+Customer 2 is looking at Dog 41
+Customer is buying Dog 41 for $131.40 from trainer Alpa
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Insurance added to Pet for $50
+Total price for Dog 41 is now $231.40
+Customer 2 didn't buy a item from supplies!
+Alpa cleans the cages.
+Jason vacuums the store.
+Alpa locks up the store and leaves.
+Jason locks up the store and leaves.
+File already exists.
+Tracker: Day 16
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           204                             32494.0
+Randal                          102                             12005.0
+Jason                           86                             16525.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            110                             16321.199999999993
+Kirk                            112                             18810.0
+Ricky                           70                             8728.0
+
+
+*** Simulation day 17 ***
+Store opens today, day 17
+Randal is the clerk working today.
+Employee Alpa is sick and can't work today
+Employee Ricky is replacing them
+Ricky is the trainer working today.
+Randal arrives at store.
+Ricky arrives at store.
+Randal is checking for deliveries.
+SuppliesItem: 37 added to inventory.
+SuppliesItem: 38 added to inventory.
+SuppliesItem: 39 added to inventory.
+Ricky is feeding the animals...
+Dog 45 just got sick!
+Randal checks: $8,268.80 in register.
+Randal is doing inventory.
+Randal counts 2 dogs
+Randal counts 1 cats
+Randal counts 3 birds
+Randal counts 0 ferrets
+Randal needs to order ferrets
+Randal ordered a pet for $97.00
+Randal ordered a pet for $17.00
+Randal ordered a pet for $93.00
+Randal counts 1 snakes
+Randal counts 1 catlitters
+Randal counts 3 foods
+Randal counts 0 leashs
+Randal needs to order leashs
+Randal ordered a pet for $70.00
+Randal ordered a pet for $66.00
+Randal ordered a pet for $93.00
+Randal counts 0 toyss
+Stock of TOYS is out, not ordering more.
+Randal counts 0 treatss
+Randal needs to order treatss
+Randal ordered a pet for $67.00
+Randal ordered a pet for $2.00
+Randal ordered a pet for $5.00
+Randal finds 7 pets in store, worth $394.00
+Randal finds 4 supplies in store, worth $248.00
+The total worth of all items is: $642.00
+Ricky is training the animals...
+Ricky is trying to train Cat Cat 22
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Dog Dog 43
+Pos Reinforcement training method changed the housebroken trait of the pet.
+Ricky is trying to train Dog Dog 44
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Customer 1 didn't buy a pet!
+Customer 1 didn't buy a item from supplies!
+Customer 2 is looking at Bird 47
+Customer is buying Bird 47 for $156.60 from trainer Ricky
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Bird 47 is now $281.60
+Customer 2 didn't buy a item from supplies!
+Customer 3 didn't buy a pet!
+Customer 3 didn't buy a item from supplies!
+Customer 4 didn't buy a pet!
+Customer 4 didn't buy a item from supplies!
+Customer 5 is looking at Snake 31
+Customer is buying Snake 31 for $147.60 from trainer Ricky
+Customer purchased the Add-On listed below for the pet:
+Insurance added to Pet for $50
+Total price for Snake 31 is now $197.60
+Customer 5 didn't buy a item from supplies!
+Ricky cleans the cages.
+Randal vacuums the store.
+Ricky locks up the store and leaves.
+Randal locks up the store and leaves.
+File already exists.
+Tracker: Day 17
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           225                             35957.0
+Randal                          117                             13711.0
+Jason                           94                             17885.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            123                             18483.199999999993
+Kirk                            124                             20623.8
+Ricky                           78                             9920.2
+
+
+*** Simulation day 18 ***
+Store opens today, day 18
+Dante is the clerk working today.
+Ricky is the trainer working today.
+Dante arrives at store.
+Ricky arrives at store.
+Dante is checking for deliveries.
+Bird 49 added to inventory.
+Bird 50 added to inventory.
+Bird 51 added to inventory.
+SuppliesItem: 40 added to inventory.
+SuppliesItem: 41 added to inventory.
+SuppliesItem: 42 added to inventory.
+SuppliesItem: 43 added to inventory.
+SuppliesItem: 44 added to inventory.
+SuppliesItem: 45 added to inventory.
+Ricky is feeding the animals...
+Dante checks: $8,238.00 in register.
+Dante is doing inventory.
+Dante counts 2 dogs
+Dante counts 1 cats
+Dante counts 5 birds
+Dante counts 0 ferrets
+Dante needs to order ferrets
+Dante ordered a pet for $37.00
+Dante ordered a pet for $75.00
+Dante ordered a pet for $13.00
+Dante counts 0 snakes
+Dante needs to order snakes
+Dante ordered a pet for $87.00
+Dante ordered a pet for $58.00
+Dante ordered a pet for $45.00
+Dante counts 1 catlitters
+Dante counts 6 foods
+Dante counts 0 leashs
+Dante needs to order leashs
+Dante ordered a pet for $67.00
+Dante ordered a pet for $33.00
+Dante ordered a pet for $92.00
+Dante counts 0 toyss
+Stock of TOYS is out, not ordering more.
+Dante counts 3 treatss
+Dante finds 8 pets in store, worth $361.00
+Dante finds 10 supplies in store, worth $597.00
+The total worth of all items is: $958.00
+Ricky is training the animals...
+Ricky is trying to train Cat Cat 22
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Dog Dog 43
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Dog Dog 44
+Pos Reinforcement training method changed the housebroken trait of the pet.
+Customer 1 is looking at Bird 50
+Customer is buying Bird 50 for $149.40 from trainer Ricky
+Total price for Bird 50 is now $149.40
+Customer 1 didn't buy a item from supplies!
+Customer 2 didn't buy a pet!
+Customer 2 didn't buy a item from supplies!
+Customer 3 is looking at Cat 22
+Customer is buying Cat 22 for $55.80 from trainer Ricky
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Cat 22 is now $130.80
+Customer 3 didn't buy a item from supplies!
+Customer 4 didn't buy a pet!
+Customer 4 is looking at SuppliesItem: 41
+Customer is buying SuppliesItem: 41 for $110.00 from clerk Dante
+Customer 5 is looking at Dog 44
+Customer is buying Dog 44 for $111.60 from trainer Ricky
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Dog 44 is now $261.60
+Customer 5 didn't buy a item from supplies!
+Customer 6 is looking at Dog 43
+Customer is buying Dog 43 for $52.00 from clerk Dante
+Total price for Dog 43 is now $52.00
+Customer 6 didn't buy a item from supplies!
+Customer 7 is looking at Bird 46
+Customer is buying Bird 46 for $66.00 from clerk Dante
+Total price for Bird 46 is now $66.00
+Customer 7 is looking at SuppliesItem: 31
+Customer is buying SuppliesItem: 31 for $106.00 from clerk Dante
+Customer 8 didn't buy a pet!
+Customer 8 is looking at SuppliesItem: 42
+Customer is buying SuppliesItem: 42 for $57.60 from trainer Ricky
+Ricky cleans the cages.
+Dante vacuums the store.
+Ricky locks up the store and leaves.
+Dante locks up the store and leaves.
+File already exists.
+Tracker: Day 18
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           250                             39754.0
+Randal                          132                             15417.0
+Jason                           102                             19245.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            136                             20645.199999999993
+Kirk                            136                             22437.6
+Ricky                           90                             11711.800000000001
+
+
+*** Simulation day 19 ***
+Store opens today, day 19
+Randal is the clerk working today.
+Ricky is the trainer working today.
+Randal arrives at store.
+Ricky arrives at store.
+Randal is checking for deliveries.
+Ferret 52 added to inventory.
+Ferret 53 added to inventory.
+Ferret 54 added to inventory.
+SuppliesItem: 46 added to inventory.
+SuppliesItem: 47 added to inventory.
+SuppliesItem: 48 added to inventory.
+SuppliesItem: 49 added to inventory.
+SuppliesItem: 50 added to inventory.
+SuppliesItem: 51 added to inventory.
+SuppliesItem: 52 added to inventory.
+SuppliesItem: 53 added to inventory.
+SuppliesItem: 54 added to inventory.
+SuppliesItem: 55 added to inventory.
+SuppliesItem: 56 added to inventory.
+SuppliesItem: 57 added to inventory.
+SuppliesItem: 58 added to inventory.
+SuppliesItem: 59 added to inventory.
+SuppliesItem: 60 added to inventory.
+Ricky is feeding the animals...
+Dog 45 just got healthy!
+Randal checks: $8,664.40 in register.
+Randal is doing inventory.
+Randal counts 1 dogs
+Randal counts 0 cats
+Randal needs to order cats
+Randal ordered a pet for $99.00
+Randal ordered a pet for $68.00
+Randal ordered a pet for $78.00
+Randal counts 3 birds
+Randal counts 3 ferrets
+Randal counts 0 snakes
+Randal needs to order snakes
+Randal ordered a pet for $36.00
+Randal ordered a pet for $43.00
+Randal ordered a pet for $12.00
+Randal counts 0 catlitters
+Randal needs to order catlitters
+Randal ordered a pet for $77.00
+Randal ordered a pet for $44.00
+Randal ordered a pet for $12.00
+Randal counts 7 foods
+Randal counts 6 leashs
+Randal counts 0 toyss
+Stock of TOYS is out, not ordering more.
+Randal counts 9 treatss
+Randal finds 7 pets in store, worth $309.00
+Randal finds 22 supplies in store, worth $1,253.00
+The total worth of all items is: $1,562.00
+Ricky is training the animals...
+Ricky is trying to train Ferret Ferret 52
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Ferret Ferret 53
+Pos Reinforcement training method changed the housebroken trait of the pet.
+Ricky is trying to train Ferret Ferret 54
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Dog Dog 45
+Pos Reinforcement training method changed the housebroken trait of the pet.
+Customer 1 is looking at Bird 48
+Customer is buying Bird 48 for $146.00 from clerk Randal
+Total price for Bird 48 is now $146.00
+Customer 1 is looking at SuppliesItem: 48
+Customer is buying SuppliesItem: 48 for $172.80 from trainer Ricky
+Customer 2 didn't buy a pet!
+Customer 2 is looking at SuppliesItem: 39
+Customer is buying SuppliesItem: 39 for $154.80 from trainer Ricky
+Customer 3 didn't buy a pet!
+Customer 3 is looking at SuppliesItem: 45
+Customer isn't buying SuppliesItem: 45
+Customer 3 is looking at SuppliesItem: 47
+Customer is buying SuppliesItem: 47 for $138.00 from clerk Randal
+Ricky cleans the cages.
+Randal vacuums the store.
+Ricky locks up the store and leaves.
+Randal locks up the store and leaves.
+File already exists.
+Tracker: Day 19
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           275                             43551.0
+Randal                          149                             17407.0
+Jason                           110                             20605.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            149                             22807.199999999993
+Kirk                            148                             24251.399999999998
+Ricky                           104                             13831.000000000002
+
+
+*** Simulation day 20 ***
+Store opens today, day 20
+Jason is the clerk working today.
+Ricky has worked maximum of 3 days in a row.
+Alpa is the trainer working today.
+Jason arrives at store.
+Alpa arrives at store.
+Jason is checking for deliveries.
+Ferret 55 added to inventory.
+Ferret 56 added to inventory.
+Ferret 57 added to inventory.
+Ferret 58 added to inventory.
+Ferret 59 added to inventory.
+Ferret 60 added to inventory.
+Cat 64 added to inventory.
+Cat 65 added to inventory.
+Cat 66 added to inventory.
+Alpa is feeding the animals...
+Cat 64 just got sick!
+Jason checks: $8,807.00 in register.
+Jason is doing inventory.
+Jason counts 1 dogs
+Jason counts 2 cats
+Jason counts 2 birds
+Jason counts 9 ferrets
+Jason counts 0 snakes
+Jason needs to order snakes
+Jason ordered a pet for $21.00
+Jason ordered a pet for $85.00
+Jason ordered a pet for $20.00
+Jason counts 0 catlitters
+Jason needs to order catlitters
+Jason ordered a pet for $42.00
+Jason ordered a pet for $89.00
+Jason ordered a pet for $81.00
+Jason counts 4 foods
+Jason counts 6 leashs
+Jason counts 0 toyss
+Stock of TOYS is out, not ordering more.
+Jason counts 9 treatss
+Jason finds 14 pets in store, worth $714.00
+Jason finds 19 supplies in store, worth $1,002.00
+The total worth of all items is: $1,716.00
+Alpa is training the animals...
+Alpa is trying to train Ferret Ferret 52
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Ferret Ferret 53
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Ferret Ferret 54
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Dog Dog 45
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Ferret Ferret 55
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Ferret Ferret 56
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Ferret Ferret 57
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Ferret Ferret 58
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Ferret Ferret 59
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Ferret Ferret 60
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Cat Cat 65
+Haphazard training method changed the housebroken trait of the pet.
+Alpa is trying to train Cat Cat 66
+Haphazard training method didn't change the housebroken trait of the pet.
+Customer 1 is looking at Bird 51
+Customer is buying Bird 51 for $38.00 from clerk Jason
+Total price for Bird 51 is now $38.00
+Customer 1 didn't buy a item from supplies!
+Customer 2 is looking at Dog 45
+Customer is buying Dog 45 for $174.00 from clerk Jason
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Dog 45 is now $274.00
+Customer 2 didn't buy a item from supplies!
+Customer 3 didn't buy a pet!
+Customer 3 didn't buy a item from supplies!
+Customer 4 is looking at Ferret 56
+Customer isn't buying Ferret 56
+Customer 4 is looking at Cat 65
+Customer is buying Cat 65 for $122.40 from trainer Alpa
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Cat 65 is now $222.40
+Customer 4 didn't buy a item from supplies!
+Customer 5 didn't buy a pet!
+Customer 5 is looking at SuppliesItem: 37
+Customer is buying SuppliesItem: 37 for $160.00 from clerk Jason
+Customer 6 is looking at Ferret 55
+Customer is buying Ferret 55 for $194.00 from clerk Jason
+Total price for Ferret 55 is now $194.00
+Customer 6 is looking at SuppliesItem: 50
+Customer is buying SuppliesItem: 50 for $3.60 from trainer Alpa
+Customer 7 is looking at Ferret 57
+Customer is buying Ferret 57 for $186.00 from clerk Jason
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Total price for Ferret 57 is now $236.00
+Customer 7 didn't buy a item from supplies!
+Alpa cleans the cages.
+Jason vacuums the store.
+Alpa locks up the store and leaves.
+Jason locks up the store and leaves.
+File already exists.
+Tracker: Day 20
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           300                             47348.0
+Randal                          166                             19397.0
+Jason                           123                             22867.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            164                             25195.199999999993
+Kirk                            160                             26065.199999999997
+Ricky                           118                             15950.200000000003
+
+
+*** Simulation day 21 ***
+Store opens today, day 21
+Dante is the clerk working today.
+Alpa is the trainer working today.
+Dante arrives at store.
+Alpa arrives at store.
+Dante is checking for deliveries.
+Snake 61 added to inventory.
+Snake 62 added to inventory.
+Snake 63 added to inventory.
+Alpa is feeding the animals...
+Ferret 54 just got sick!
+Ferret 58 just got sick!
+Dante checks: $9,597.00 in register.
+Dante is doing inventory.
+Dante counts 0 dogs
+Dante needs to order dogs
+Dante ordered a pet for $43.00
+Dante ordered a pet for $78.00
+Dante ordered a pet for $59.00
+Dante counts 1 cats
+Dante counts 1 birds
+Dante counts 5 ferrets
+Dante counts 3 snakes
+Dante counts 0 catlitters
+Dante needs to order catlitters
+Dante ordered a pet for $48.00
+Dante ordered a pet for $52.00
+Dante ordered a pet for $67.00
+Dante counts 3 foods
+Dante counts 6 leashs
+Dante counts 0 toyss
+Stock of TOYS is out, not ordering more.
+Dante counts 8 treatss
+Dante finds 10 pets in store, worth $489.00
+Dante finds 17 supplies in store, worth $920.00
+The total worth of all items is: $1,409.00
+Alpa is training the animals...
+Alpa is trying to train Ferret Ferret 52
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Ferret Ferret 53
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Ferret Ferret 56
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Ferret Ferret 59
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Ferret Ferret 60
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Cat Cat 66
+Haphazard training method didn't change the housebroken trait of the pet.
+Customer 1 is looking at Ferret 52
+Customer is buying Ferret 52 for $142.20 from trainer Alpa
+Total price for Ferret 52 is now $142.20
+Customer 1 is looking at SuppliesItem: 56
+Customer is buying SuppliesItem: 56 for $3.60 from trainer Alpa
+Customer 2 is looking at Ferret 60
+Customer is buying Ferret 60 for $23.40 from trainer Alpa
+Customer purchased the Add-On listed below for the pet:
+Insurance added to Pet for $50
+Total price for Ferret 60 is now $73.40
+Customer 2 is looking at SuppliesItem: 38
+Customer is buying SuppliesItem: 38 for $58.00 from clerk Dante
+Customer 3 didn't buy a pet!
+Customer 3 is looking at SuppliesItem: 40
+Customer is buying SuppliesItem: 40 for $150.00 from clerk Dante
+Customer 4 didn't buy a pet!
+Customer 4 didn't buy a item from supplies!
+Alpa cleans the cages.
+Dante vacuums the store.
+Alpa locks up the store and leaves.
+Dante locks up the store and leaves.
+File already exists.
+Tracker: Day 21
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           327                             51353.0
+Randal                          183                             21387.0
+Jason                           136                             25129.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            182                             27802.399999999994
+Kirk                            172                             27878.999999999996
+Ricky                           132                             18069.400000000005
+
+
+*** Simulation day 22 ***
+Store opens today, day 22
+Employee Jason is sick and can't work today
+Employee Jason is replacing them
+Jason is the clerk working today.
+Alpa is the trainer working today.
+Jason arrives at store.
+Alpa arrives at store.
+Jason is checking for deliveries.
+Snake 67 added to inventory.
+Snake 68 added to inventory.
+Snake 69 added to inventory.
+Snake 70 added to inventory.
+Snake 71 added to inventory.
+Snake 72 added to inventory.
+SuppliesItem: 61 added to inventory.
+SuppliesItem: 62 added to inventory.
+SuppliesItem: 63 added to inventory.
+SuppliesItem: 64 added to inventory.
+SuppliesItem: 65 added to inventory.
+SuppliesItem: 66 added to inventory.
+Alpa is feeding the animals...
+Snake 68 just got sick!
+Jason checks: $9,677.20 in register.
+Jason is doing inventory.
+Jason counts 0 dogs
+Jason needs to order dogs
+Jason ordered a pet for $22.00
+Jason ordered a pet for $100.00
+Jason ordered a pet for $55.00
+Jason counts 1 cats
+Jason counts 1 birds
+Jason counts 3 ferrets
+Jason counts 8 snakes
+Jason counts 6 catlitters
+Jason counts 1 foods
+Jason counts 6 leashs
+Jason counts 0 toyss
+Stock of TOYS is out, not ordering more.
+Jason counts 7 treatss
+Jason finds 13 pets in store, worth $571.00
+Jason finds 20 supplies in store, worth $1,159.00
+The total worth of all items is: $1,730.00
+Alpa is training the animals...
+Alpa is trying to train Ferret Ferret 53
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Ferret Ferret 56
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Ferret Ferret 59
+Haphazard training method changed the housebroken trait of the pet.
+Alpa is trying to train Cat Cat 66
+Haphazard training method didn't change the housebroken trait of the pet.
+Customer 1 didn't buy a pet!
+Customer 1 is looking at SuppliesItem: 43
+Customer is buying SuppliesItem: 43 for $126.00 from clerk Jason
+Customer 2 is looking at Cat 66
+Customer is buying Cat 66 for $140.40 from trainer Alpa
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Cat 66 is now $240.40
+Customer 2 is looking at SuppliesItem: 64
+Customer is buying SuppliesItem: 64 for $75.60 from trainer Alpa
+Customer 3 didn't buy a pet!
+Customer 3 is looking at SuppliesItem: 45
+Customer is buying SuppliesItem: 45 for $162.00 from trainer Alpa
+Customer 4 didn't buy a pet!
+Customer 4 is looking at SuppliesItem: 49
+Customer is buying SuppliesItem: 49 for $14.00 from clerk Jason
+Customer 5 is looking at Snake 63
+Customer isn't buying Snake 63
+Customer 5 is looking at Snake 70
+Customer isn't buying Snake 70
+Customer 5 didn't buy a pet!
+Customer 5 is looking at SuppliesItem: 55
+Customer is buying SuppliesItem: 55 for $134.00 from clerk Jason
+Customer 6 didn't buy a pet!
+Customer 6 is looking at SuppliesItem: 65
+Customer is buying SuppliesItem: 65 for $178.00 from clerk Jason
+Customer 7 didn't buy a pet!
+Customer 7 is looking at SuppliesItem: 51
+Customer is buying SuppliesItem: 51 for $72.00 from clerk Jason
+Customer 8 is looking at Snake 61
+Customer is buying Snake 61 for $156.60 from trainer Alpa
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Total price for Snake 61 is now $206.60
+Customer 8 didn't buy a item from supplies!
+Customer 9 didn't buy a pet!
+Customer 9 didn't buy a item from supplies!
+Alpa cleans the cages.
+Ferret 56 has escaped during cage cleaning!
+Alpa caught the escaped pet!
+Jason vacuums the store.
+Alpa locks up the store and leaves.
+Jason locks up the store and leaves.
+File already exists.
+Tracker: Day 22
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           354                             55358.0
+Randal                          200                             23377.0
+Jason                           154                             27915.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            204                             31094.199999999993
+Kirk                            184                             29692.799999999996
+Ricky                           146                             20188.600000000006
+
+
+*** Simulation day 23 ***
+Store opens today, day 23
+Dante is the clerk working today.
+Employee Alpa is sick and can't work today
+Employee Ricky is replacing them
+Ricky is the trainer working today.
+Dante arrives at store.
+Ricky arrives at store.
+Dante is checking for deliveries.
+Dog 76 added to inventory.
+Dog 77 added to inventory.
+Dog 78 added to inventory.
+SuppliesItem: 67 added to inventory.
+SuppliesItem: 68 added to inventory.
+SuppliesItem: 69 added to inventory.
+Ricky is feeding the animals...
+Snake 72 just got sick!
+Ferret 54 just got healthy!
+Dante checks: $10,708.80 in register.
+Dante is doing inventory.
+Dante counts 3 dogs
+Dante counts 0 cats
+Dante needs to order cats
+Dante ordered a pet for $20.00
+Dante ordered a pet for $25.00
+Dante ordered a pet for $63.00
+Dante counts 1 birds
+Dante counts 4 ferrets
+Dante counts 6 snakes
+Dante counts 7 catlitters
+Dante counts 1 foods
+Dante counts 6 leashs
+Dante counts 0 toyss
+Stock of TOYS is out, not ordering more.
+Dante counts 2 treatss
+Dante finds 14 pets in store, worth $577.00
+Dante finds 16 supplies in store, worth $932.00
+The total worth of all items is: $1,509.00
+Ricky is training the animals...
+Ricky is trying to train Ferret Ferret 53
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Ferret Ferret 56
+Pos Reinforcement training method changed the housebroken trait of the pet.
+Ricky is trying to train Ferret Ferret 59
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Dog Dog 76
+Pos Reinforcement training method changed the housebroken trait of the pet.
+Ricky is trying to train Dog Dog 77
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Dog Dog 78
+Pos Reinforcement training method changed the housebroken trait of the pet.
+Ricky is trying to train Ferret Ferret 54
+Pos Reinforcement training method changed the housebroken trait of the pet.
+Customer 1 is looking at Ferret 54
+Customer is buying Ferret 54 for $25.20 from trainer Ricky
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Ferret 54 is now $75.20
+Customer 1 is looking at SuppliesItem: 62
+Customer isn't buying SuppliesItem: 62
+Customer 1 is looking at SuppliesItem: 69
+Customer is buying SuppliesItem: 69 for $134.00 from clerk Dante
+Customer 2 didn't buy a pet!
+Customer 2 didn't buy a item from supplies!
+Customer 3 is looking at Dog 76
+Customer is buying Dog 76 for $39.60 from trainer Ricky
+Total price for Dog 76 is now $39.60
+Customer 3 is looking at SuppliesItem: 62
+Customer isn't buying SuppliesItem: 62
+Customer 3 is looking at SuppliesItem: 66
+Customer is buying SuppliesItem: 66 for $145.80 from trainer Ricky
+Customer 4 is looking at Snake 63
+Customer is buying Snake 63 for $81.00 from trainer Ricky
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Insurance added to Pet for $50
+Total price for Snake 63 is now $181.00
+Customer 4 is looking at SuppliesItem: 46
+Customer is buying SuppliesItem: 46 for $182.00 from clerk Dante
+Customer 5 is looking at Ferret 56
+Customer is buying Ferret 56 for $34.00 from clerk Dante
+Total price for Ferret 56 is now $34.00
+Customer 5 is looking at SuppliesItem: 52
+Customer is buying SuppliesItem: 52 for $140.00 from clerk Dante
+Ricky cleans the cages.
+Dante vacuums the store.
+Ricky locks up the store and leaves.
+Dante locks up the store and leaves.
+File already exists.
+Tracker: Day 23
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           385                             59853.0
+Randal                          217                             25367.0
+Jason                           172                             30701.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            226                             34385.99999999999
+Kirk                            196                             31506.599999999995
+Ricky                           164                             22749.400000000005
+
+
+*** Simulation day 24 ***
+Store opens today, day 24
+Employee Dante is sick and can't work today
+Employee Jason is replacing them
+Jason is the clerk working today.
+Ricky is the trainer working today.
+Jason arrives at store.
+Ricky arrives at store.
+Jason is checking for deliveries.
+Dog 73 added to inventory.
+Dog 74 added to inventory.
+Dog 75 added to inventory.
+Ricky is feeding the animals...
+Cat 64 just got healthy!
+Ferret 58 just got healthy!
+Snake 68 just got healthy!
+Jason checks: $11,532.40 in register.
+Jason is doing inventory.
+Jason counts 5 dogs
+Jason counts 1 cats
+Jason counts 1 birds
+Jason counts 3 ferrets
+Jason counts 6 snakes
+Jason counts 5 catlitters
+Jason counts 0 foods
+Jason needs to order foods
+Jason ordered a pet for $64.00
+Jason ordered a pet for $55.00
+Jason ordered a pet for $25.00
+Jason counts 5 leashs
+Jason counts 0 toyss
+Stock of TOYS is out, not ordering more.
+Jason counts 2 treatss
+Jason finds 16 pets in store, worth $838.00
+Jason finds 12 supplies in store, worth $623.00
+The total worth of all items is: $1,461.00
+Ricky is training the animals...
+Ricky is trying to train Ferret Ferret 53
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Ferret Ferret 59
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Dog Dog 77
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Dog Dog 78
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Dog Dog 73
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Dog Dog 74
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Dog Dog 75
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Cat Cat 64
+Pos Reinforcement training method changed the housebroken trait of the pet.
+Ricky is trying to train Ferret Ferret 58
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Customer 1 is looking at Dog 75
+Customer is buying Dog 75 for $106.20 from trainer Ricky
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Total price for Dog 75 is now $156.20
+Customer 1 is looking at SuppliesItem: 59
+Customer is buying SuppliesItem: 59 for $66.00 from clerk Jason
+Customer 2 didn't buy a pet!
+Customer 2 is looking at SuppliesItem: 61
+Customer is buying SuppliesItem: 61 for $138.60 from trainer Ricky
+Customer 3 is looking at Snake 70
+Customer isn't buying Snake 70
+Customer 3 is looking at Dog 77
+Customer is buying Dog 77 for $200.00 from clerk Jason
+Customer purchased the Add-On listed below for the pet:
+Insurance added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Dog 77 is now $300.00
+Customer 3 is looking at SuppliesItem: 63
+Customer is buying SuppliesItem: 63 for $21.60 from trainer Ricky
+Customer 4 is looking at Snake 71
+Customer is buying Snake 71 for $170.00 from clerk Jason
+Total price for Snake 71 is now $170.00
+Customer 4 is looking at SuppliesItem: 57
+Customer is buying SuppliesItem: 57 for $9.00 from trainer Ricky
+Customer 5 is looking at Snake 62
+Customer is buying Snake 62 for $116.00 from clerk Jason
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Total price for Snake 62 is now $166.00
+Customer 5 didn't buy a item from supplies!
+Customer 6 is looking at Dog 73
+Customer is buying Dog 73 for $77.40 from trainer Ricky
+Customer purchased the Add-On listed below for the pet:
+Insurance added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Dog 73 is now $202.40
+Customer 6 didn't buy a item from supplies!
+Ricky cleans the cages.
+Jason vacuums the store.
+Ricky locks up the store and leaves.
+Jason locks up the store and leaves.
+File already exists.
+Tracker: Day 24
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           416                             64348.0
+Randal                          234                             27357.0
+Jason                           194                             34189.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            248                             37677.799999999996
+Kirk                            208                             33320.399999999994
+Ricky                           187                             25838.000000000004
+
+
+*** Simulation day 25 ***
+Store opens today, day 25
+Jason is the clerk working today.
+Ricky is the trainer working today.
+Jason arrives at store.
+Ricky arrives at store.
+Jason is checking for deliveries.
+Ricky is feeding the animals...
+Ferret 59 just got sick!
+Jason checks: $12,618.20 in register.
+Jason is doing inventory.
+Jason counts 2 dogs
+Jason counts 1 cats
+Jason counts 1 birds
+Jason counts 2 ferrets
+Jason counts 4 snakes
+Jason counts 3 catlitters
+Jason counts 0 foods
+Jason needs to order foods
+Jason ordered a pet for $47.00
+Jason ordered a pet for $40.00
+Jason ordered a pet for $21.00
+Jason counts 4 leashs
+Jason counts 0 toyss
+Stock of TOYS is out, not ordering more.
+Jason counts 1 treatss
+Jason finds 10 pets in store, worth $418.00
+Jason finds 8 supplies in store, worth $496.00
+The total worth of all items is: $914.00
+Ricky is training the animals...
+Ricky is trying to train Ferret Ferret 53
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Dog Dog 78
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Dog Dog 74
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Cat Cat 64
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Ferret Ferret 58
+Pos Reinforcement training method changed the housebroken trait of the pet.
+Customer 1 didn't buy a pet!
+Customer 1 didn't buy a item from supplies!
+Customer 2 didn't buy a pet!
+Customer 2 didn't buy a item from supplies!
+Customer 3 didn't buy a pet!
+Customer 3 is looking at SuppliesItem: 53
+Customer is buying SuppliesItem: 53 for $118.80 from trainer Ricky
+Ricky cleans the cages.
+Jason vacuums the store.
+Ricky locks up the store and leaves.
+Jason locks up the store and leaves.
+File already exists.
+Tracker: Day 25
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           447                             68843.0
+Randal                          251                             29347.0
+Jason                           216                             37677.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            270                             40969.6
+Kirk                            220                             35134.2
+Ricky                           211                             29045.4
+
+
+*** Simulation day 26 ***
+Store opens today, day 26
+Employee Randal is sick and can't work today
+Employee Jason is replacing them
+Jason is the clerk working today.
+Alpa is the trainer working today.
+Jason arrives at store.
+Alpa arrives at store.
+Jason is checking for deliveries.
+Cat 79 added to inventory.
+Cat 80 added to inventory.
+Cat 81 added to inventory.
+SuppliesItem: 70 added to inventory.
+SuppliesItem: 71 added to inventory.
+SuppliesItem: 72 added to inventory.
+SuppliesItem: 73 added to inventory.
+SuppliesItem: 74 added to inventory.
+SuppliesItem: 75 added to inventory.
+Alpa is feeding the animals...
+Snake 72 just got healthy!
+Jason checks: $12,629.00 in register.
+Jason is doing inventory.
+Jason counts 2 dogs
+Jason counts 4 cats
+Jason counts 1 birds
+Jason counts 2 ferrets
+Jason counts 5 snakes
+Jason counts 3 catlitters
+Jason counts 6 foods
+Jason counts 3 leashs
+Jason counts 0 toyss
+Stock of TOYS is out, not ordering more.
+Jason counts 1 treatss
+Jason finds 14 pets in store, worth $546.00
+Jason finds 13 supplies in store, worth $682.00
+The total worth of all items is: $1,228.00
+Alpa is training the animals...
+Alpa is trying to train Ferret Ferret 53
+Haphazard training method changed the housebroken trait of the pet.
+Alpa is trying to train Dog Dog 78
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Dog Dog 74
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Cat Cat 64
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Ferret Ferret 58
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Cat Cat 79
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Cat Cat 80
+Haphazard training method didn't change the housebroken trait of the pet.
+Alpa is trying to train Cat Cat 81
+Haphazard training method didn't change the housebroken trait of the pet.
+Customer 1 is looking at Snake 67
+Customer is buying Snake 67 for $72.00 from clerk Jason
+Total price for Snake 67 is now $72.00
+Customer 1 is looking at SuppliesItem: 75
+Customer is buying SuppliesItem: 75 for $42.00 from clerk Jason
+Customer 2 is looking at Snake 69
+Customer is buying Snake 69 for $24.00 from clerk Jason
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Snake 69 is now $124.00
+Customer 2 is looking at SuppliesItem: 60
+Customer is buying SuppliesItem: 60 for $184.00 from clerk Jason
+Customer 3 is looking at Snake 68
+Customer is buying Snake 68 for $77.40 from trainer Alpa
+Customer purchased the Add-On listed below for the pet:
+Insurance added to Pet for $50
+Total price for Snake 68 is now $127.40
+Customer 3 is looking at SuppliesItem: 54
+Customer is buying SuppliesItem: 54 for $186.00 from clerk Jason
+Customer 4 is looking at Cat 64
+Customer is buying Cat 64 for $178.20 from trainer Alpa
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Cat 64 is now $253.20
+Customer 4 didn't buy a item from supplies!
+Customer 5 didn't buy a pet!
+Customer 5 is looking at SuppliesItem: 58
+Customer isn't buying SuppliesItem: 58
+Customer 5 didn't buy a item from supplies!
+Alpa cleans the cages.
+Jason vacuums the store.
+Alpa locks up the store and leaves.
+Jason locks up the store and leaves.
+File already exists.
+Tracker: Day 26
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           478                             73338.0
+Randal                          268                             31337.0
+Jason                           243                             41773.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            294                             44642.0
+Kirk                            232                             36948.0
+Ricky                           235                             32252.8
+
+
+*** Simulation day 27 ***
+Store opens today, day 27
+Dante is the clerk working today.
+Kirk is the trainer working today.
+Dante arrives at store.
+Kirk arrives at store.
+Dante is checking for deliveries.
+Kirk is feeding the animals...
+Dante checks: $13,617.60 in register.
+Dante is doing inventory.
+Dante counts 2 dogs
+Dante counts 3 cats
+Dante counts 1 birds
+Dante counts 2 ferrets
+Dante counts 2 snakes
+Dante counts 3 catlitters
+Dante counts 5 foods
+Dante counts 1 leashs
+Dante counts 0 toyss
+Stock of TOYS is out, not ordering more.
+Dante counts 1 treatss
+Dante finds 10 pets in store, worth $356.00
+Dante finds 10 supplies in store, worth $476.00
+The total worth of all items is: $832.00
+Kirk is training the animals...
+Kirk is trying to train Ferret Ferret 53
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Dog Dog 78
+Neg Reinforcement training method changed the housebroken trait of the pet.
+Kirk is trying to train Dog Dog 74
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Ferret Ferret 58
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Cat Cat 79
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method changed the housebroken trait of the pet.
+Kirk is trying to train Cat Cat 80
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method changed the housebroken trait of the pet.
+Kirk is trying to train Cat Cat 81
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method changed the housebroken trait of the pet.
+Customer 1 didn't buy a pet!
+Customer 1 is looking at SuppliesItem: 73
+Customer is buying SuppliesItem: 73 for $94.00 from clerk Dante
+Customer 2 is looking at Ferret 53
+Customer isn't buying Ferret 53
+Customer 2 didn't buy a pet!
+Customer 2 is looking at SuppliesItem: 44
+Customer is buying SuppliesItem: 44 for $68.00 from clerk Dante
+Customer 3 didn't buy a pet!
+Customer 3 is looking at SuppliesItem: 67
+Customer is buying SuppliesItem: 67 for $86.40 from trainer Kirk
+Customer 4 didn't buy a pet!
+Customer 4 didn't buy a item from supplies!
+Kirk cleans the cages.
+Dante vacuums the store.
+Kirk locks up the store and leaves.
+Dante locks up the store and leaves.
+File already exists.
+Tracker: Day 27
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           511                             77995.0
+Randal                          285                             33327.0
+Jason                           270                             45869.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            318                             48314.4
+Kirk                            245                             38848.200000000004
+Ricky                           259                             35460.2
+
+
+*** Simulation day 28 ***
+Store opens today, day 28
+Dante is the clerk working today.
+Ricky is the trainer working today.
+Dante arrives at store.
+Ricky arrives at store.
+Dante is checking for deliveries.
+Ricky is feeding the animals...
+Dante checks: $13,866.00 in register.
+Dante is doing inventory.
+Dante counts 2 dogs
+Dante counts 3 cats
+Dante counts 1 birds
+Dante counts 2 ferrets
+Dante counts 2 snakes
+Dante counts 2 catlitters
+Dante counts 4 foods
+Dante counts 1 leashs
+Dante counts 0 toyss
+Stock of TOYS is out, not ordering more.
+Dante counts 0 treatss
+Dante needs to order treatss
+Dante ordered a pet for $77.00
+Dante ordered a pet for $52.00
+Dante ordered a pet for $78.00
+Dante finds 10 pets in store, worth $356.00
+Dante finds 7 supplies in store, worth $347.00
+The total worth of all items is: $703.00
+Ricky is training the animals...
+Ricky is trying to train Ferret Ferret 53
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Dog Dog 78
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Dog Dog 74
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Ferret Ferret 58
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Cat Cat 79
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Cat Cat 80
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Ricky is trying to train Cat Cat 81
+Pos Reinforcement training method didn't change the housebroken trait of the pet.
+Customer 1 didn't buy a pet!
+Customer 1 is looking at SuppliesItem: 58
+Customer is buying SuppliesItem: 58 for $120.60 from trainer Ricky
+Customer 2 didn't buy a pet!
+Customer 2 didn't buy a item from supplies!
+Customer 3 is looking at Cat 79
+Customer is buying Cat 79 for $40.00 from clerk Dante
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Insurance added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Cat 79 is now $240.00
+Customer 3 is looking at SuppliesItem: 62
+Customer is buying SuppliesItem: 62 for $79.20 from trainer Ricky
+Customer 4 is looking at Snake 70
+Customer is buying Snake 70 for $42.00 from clerk Dante
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Snake 70 is now $92.00
+Customer 4 is looking at SuppliesItem: 68
+Customer isn't buying SuppliesItem: 68
+Customer 4 is looking at SuppliesItem: 70
+Customer is buying SuppliesItem: 70 for $115.20 from trainer Ricky
+Customer 5 is looking at Ferret 58
+Customer is buying Ferret 58 for $66.60 from trainer Ricky
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Ferret 58 is now $191.60
+Customer 5 didn't buy a item from supplies!
+Ricky cleans the cages.
+Dante vacuums the store.
+Ricky locks up the store and leaves.
+Dante locks up the store and leaves.
+File already exists.
+Tracker: Day 28
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           546                             82984.0
+Randal                          302                             35317.0
+Jason                           297                             49965.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            342                             51986.8
+Kirk                            258                             40748.40000000001
+Ricky                           287                             39174.2
+
+
+*** Simulation day 29 ***
+Store opens today, day 29
+Dante is the clerk working today.
+Kirk is the trainer working today.
+Dante arrives at store.
+Kirk arrives at store.
+Dante is checking for deliveries.
+SuppliesItem: 76 added to inventory.
+SuppliesItem: 77 added to inventory.
+SuppliesItem: 78 added to inventory.
+Kirk is feeding the animals...
+Dante checks: $14,497.60 in register.
+Dante is doing inventory.
+Dante counts 2 dogs
+Dante counts 2 cats
+Dante counts 1 birds
+Dante counts 1 ferrets
+Dante counts 1 snakes
+Dante counts 1 catlitters
+Dante counts 3 foods
+Dante counts 0 leashs
+Dante needs to order leashs
+Dante ordered a pet for $22.00
+Dante ordered a pet for $33.00
+Dante ordered a pet for $44.00
+Dante counts 0 toyss
+Stock of TOYS is out, not ordering more.
+Dante counts 3 treatss
+Dante finds 7 pets in store, worth $278.00
+Dante finds 7 supplies in store, worth $379.00
+The total worth of all items is: $657.00
+Kirk is training the animals...
+Kirk is trying to train Ferret Ferret 53
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method changed the housebroken trait of the pet.
+Kirk is trying to train Dog Dog 78
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Dog Dog 74
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method changed the housebroken trait of the pet.
+Kirk is trying to train Cat Cat 80
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Cat Cat 81
+Neg Reinforcement training method changed the housebroken trait of the pet.
+Customer 1 didn't buy a pet!
+Customer 1 didn't buy a item from supplies!
+Customer 2 is looking at Ferret 53
+Customer is buying Ferret 53 for $5.40 from trainer Kirk
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Total price for Ferret 53 is now $55.40
+Customer 2 is looking at SuppliesItem: 68
+Customer is buying SuppliesItem: 68 for $93.60 from trainer Kirk
+Customer 3 didn't buy a pet!
+Customer 3 is looking at SuppliesItem: 76
+Customer is buying SuppliesItem: 76 for $154.00 from clerk Dante
+Customer 4 didn't buy a pet!
+Customer 4 is looking at SuppliesItem: 74
+Customer is buying SuppliesItem: 74 for $72.00 from trainer Kirk
+Kirk cleans the cages.
+Dante vacuums the store.
+Kirk locks up the store and leaves.
+Dante locks up the store and leaves.
+File already exists.
+Tracker: Day 29
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           582                             88127.0
+Randal                          319                             37307.0
+Jason                           324                             54061.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            366                             55659.200000000004
+Kirk                            274                             42869.60000000001
+Ricky                           315                             42888.2
+
+
+*** Simulation day 30 ***
+Store opens today, day 30
+Jason is the clerk working today.
+Kirk is the trainer working today.
+Jason arrives at store.
+Kirk arrives at store.
+Jason is checking for deliveries.
+Kirk is feeding the animals...
+Ferret 59 just got healthy!
+Jason checks: $14,773.60 in register.
+Jason is doing inventory.
+Jason counts 2 dogs
+Jason counts 2 cats
+Jason counts 1 birds
+Jason counts 1 ferrets
+Jason counts 1 snakes
+Jason counts 0 catlitters
+Jason needs to order catlitters
+Jason ordered a pet for $70.00
+Jason ordered a pet for $65.00
+Jason ordered a pet for $68.00
+Jason counts 2 foods
+Jason counts 0 leashs
+Jason needs to order leashs
+Jason ordered a pet for $39.00
+Jason ordered a pet for $79.00
+Jason ordered a pet for $16.00
+Jason counts 0 toyss
+Stock of TOYS is out, not ordering more.
+Jason counts 2 treatss
+Jason finds 7 pets in store, worth $350.00
+Jason finds 4 supplies in store, worth $210.00
+The total worth of all items is: $560.00
+Kirk is training the animals...
+Kirk is trying to train Dog Dog 78
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Dog Dog 74
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Cat Cat 80
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Kirk is trying to train Cat Cat 81
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method changed the housebroken trait of the pet.
+Kirk is trying to train Ferret Ferret 59
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Neg Reinforcement training method didn't change the housebroken trait of the pet.
+Customer 1 is looking at Dog 74
+Customer is buying Dog 74 for $156.00 from clerk Jason
+Customer purchased the Add-On listed below for the pet:
+Insurance added to Pet for $50
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Customer purchased the Add-On listed below for the pet:
+Pre Paid Vet Checkup added to Pet for $25
+Total price for Dog 74 is now $256.00
+Customer 1 didn't buy a item from supplies!
+Customer 2 didn't buy a pet!
+Customer 2 is looking at SuppliesItem: 71
+Customer is buying SuppliesItem: 71 for $110.00 from clerk Jason
+Customer 3 is looking at Dog 78
+Customer is buying Dog 78 for $99.00 from trainer Kirk
+Customer purchased the Add-On listed below for the pet:
+Microchip added to Pet for $50
+Total price for Dog 78 is now $149.00
+Customer 3 is looking at SuppliesItem: 77
+Customer is buying SuppliesItem: 77 for $93.60 from trainer Kirk
+Customer 4 is looking at Bird 49
+Customer isn't buying Bird 49
+Customer 4 didn't buy a pet!
+Customer 4 is looking at SuppliesItem: 72
+Customer is buying SuppliesItem: 72 for $50.00 from clerk Jason
+Customer 5 didn't buy a pet!
+Customer 5 didn't buy a item from supplies!
+Customer 6 didn't buy a pet!
+Customer 6 didn't buy a item from supplies!
+Kirk cleans the cages.
+Jason vacuums the store.
+Kirk locks up the store and leaves.
+Jason locks up the store and leaves.
+File already exists.
+Tracker: Day 30
+Clerks                          Items Sold                      Purchase Price Total
+Dante                           618                             93270.0
+Randal                          336                             39297.0
+Jason                           354                             58573.0
+Trainers                        Items Sold                      Purchase Price Total
+Alpa                            390                             59331.600000000006
+Kirk                            292                             45233.400000000016
+Ricky                           343                             46602.2
+
+
+***Summary of Simulation***
+Items left in inventory:
+SuppliesItem: 78
+Bird 49
+Cat 80
+Cat 81
+Snake 72
+Ferret 59
+Value of items left in inventory, worth $295.00
+
+Items sold:
+SuppliesItem: 7 was sold on day 1 for $81.00
+SuppliesItem: 2 was sold on day 1 for $68.40
+SuppliesItem: 3 was sold on day 1 for $129.60
+SuppliesItem: 11 was sold on day 2 for $134.00
+SuppliesItem: 4 was sold on day 2 for $168.00
+SuppliesItem: 8 was sold on day 2 for $97.20
+SuppliesItem: 12 was sold on day 2 for $96.00
+SuppliesItem: 1 was sold on day 3 for $8.00
+SuppliesItem: 14 was sold on day 3 for $147.60
+SuppliesItem: 13 was sold on day 4 for $116.00
+SuppliesItem: 9 was sold on day 5 for $86.40
+SuppliesItem: 10 was sold on day 6 for $190.00
+SuppliesItem: 17 was sold on day 6 for $41.40
+SuppliesItem: 25 was sold on day 7 for $48.00
+SuppliesItem: 16 was sold on day 7 for $66.60
+SuppliesItem: 19 was sold on day 7 for $46.80
+SuppliesItem: 23 was sold on day 8 for $14.00
+SuppliesItem: 26 was sold on day 8 for $94.00
+SuppliesItem: 20 was sold on day 8 for $198.00
+SuppliesItem: 27 was sold on day 9 for $140.40
+SuppliesItem: 28 was sold on day 9 for $46.00
+SuppliesItem: 29 was sold on day 9 for $180.00
+SuppliesItem: 30 was sold on day 10 for $174.00
+SuppliesItem: 6 was sold on day 10 for $106.00
+SuppliesItem: 5 was sold on day 11 for $128.00
+SuppliesItem: 22 was sold on day 11 for $82.00
+SuppliesItem: 21 was sold on day 11 for $172.00
+SuppliesItem: 32 was sold on day 12 for $114.00
+SuppliesItem: 18 was sold on day 12 for $16.00
+SuppliesItem: 24 was sold on day 13 for $113.40
+SuppliesItem: 33 was sold on day 13 for $88.00
+SuppliesItem: 15 was sold on day 14 for $144.00
+SuppliesItem: 36 was sold on day 14 for $37.80
+SuppliesItem: 34 was sold on day 15 for $19.80
+SuppliesItem: 35 was sold on day 16 for $66.00
+SuppliesItem: 41 was sold on day 18 for $110.00
+SuppliesItem: 31 was sold on day 18 for $106.00
+SuppliesItem: 42 was sold on day 18 for $57.60
+SuppliesItem: 48 was sold on day 19 for $172.80
+SuppliesItem: 39 was sold on day 19 for $154.80
+SuppliesItem: 47 was sold on day 19 for $138.00
+SuppliesItem: 37 was sold on day 20 for $160.00
+SuppliesItem: 50 was sold on day 20 for $3.60
+SuppliesItem: 56 was sold on day 21 for $3.60
+SuppliesItem: 38 was sold on day 21 for $58.00
+SuppliesItem: 40 was sold on day 21 for $150.00
+SuppliesItem: 43 was sold on day 22 for $126.00
+SuppliesItem: 64 was sold on day 22 for $75.60
+SuppliesItem: 45 was sold on day 22 for $162.00
+SuppliesItem: 49 was sold on day 22 for $14.00
+SuppliesItem: 55 was sold on day 22 for $134.00
+SuppliesItem: 65 was sold on day 22 for $178.00
+SuppliesItem: 51 was sold on day 22 for $72.00
+SuppliesItem: 69 was sold on day 23 for $134.00
+SuppliesItem: 66 was sold on day 23 for $145.80
+SuppliesItem: 46 was sold on day 23 for $182.00
+SuppliesItem: 52 was sold on day 23 for $140.00
+SuppliesItem: 59 was sold on day 24 for $66.00
+SuppliesItem: 61 was sold on day 24 for $138.60
+SuppliesItem: 63 was sold on day 24 for $21.60
+SuppliesItem: 57 was sold on day 24 for $9.00
+SuppliesItem: 53 was sold on day 25 for $118.80
+SuppliesItem: 75 was sold on day 26 for $42.00
+SuppliesItem: 60 was sold on day 26 for $184.00
+SuppliesItem: 54 was sold on day 26 for $186.00
+SuppliesItem: 73 was sold on day 27 for $94.00
+SuppliesItem: 44 was sold on day 27 for $68.00
+SuppliesItem: 67 was sold on day 27 for $86.40
+SuppliesItem: 58 was sold on day 28 for $120.60
+SuppliesItem: 62 was sold on day 28 for $79.20
+SuppliesItem: 70 was sold on day 28 for $115.20
+SuppliesItem: 68 was sold on day 29 for $93.60
+SuppliesItem: 76 was sold on day 29 for $154.00
+SuppliesItem: 74 was sold on day 29 for $72.00
+SuppliesItem: 71 was sold on day 30 for $110.00
+SuppliesItem: 77 was sold on day 30 for $93.60
+SuppliesItem: 72 was sold on day 30 for $50.00
+Cat 2 was sold on day 1 for $277.00
+Dog 1 was sold on day 1 for $202.80
+Bird 3 was sold on day 1 for $301.20
+Ferret 9 was sold on day 2 for $171.00
+Cat 7 was sold on day 2 for $222.40
+Snake 5 was sold on day 2 for $176.00
+Dog 11 was sold on day 2 for $181.00
+Bird 8 was sold on day 3 for $129.00
+Ferret 4 was sold on day 3 for $77.00
+Snake 15 was sold on day 4 for $171.00
+Cat 12 was sold on day 4 for $332.00
+Bird 13 was sold on day 5 for $282.00
+Ferret 14 was sold on day 6 for $102.20
+Snake 10 was sold on day 6 for $140.00
+Dog 6 was sold on day 7 for $224.00
+Cat 23 was sold on day 7 for $126.00
+Dog 16 was sold on day 7 for $197.60
+Bird 26 was sold on day 7 for $82.40
+Dog 19 was sold on day 8 for $174.00
+Snake 33 was sold on day 8 for $371.00
+Bird 27 was sold on day 9 for $290.40
+Dog 21 was sold on day 9 for $278.00
+Cat 24 was sold on day 9 for $107.00
+Dog 17 was sold on day 10 for $306.60
+Ferret 30 was sold on day 10 for $77.00
+Dog 18 was sold on day 10 for $308.40
+Ferret 29 was sold on day 11 for $134.00
+Ferret 35 was sold on day 11 for $89.60
+Ferret 34 was sold on day 11 for $213.00
+Snake 32 was sold on day 11 for $238.20
+Cat 37 was sold on day 11 for $200.00
+Dog 20 was sold on day 11 for $292.00
+Cat 38 was sold on day 11 for $303.00
+Cat 39 was sold on day 12 for $136.80
+Bird 25 was sold on day 13 for $76.00
+Ferret 28 was sold on day 14 for $166.80
+Dog 42 was sold on day 14 for $107.60
+Dog 40 was sold on day 15 for $198.00
+Ferret 36 was sold on day 15 for $66.00
+Dog 41 was sold on day 16 for $231.40
+Bird 47 was sold on day 17 for $281.60
+Snake 31 was sold on day 17 for $197.60
+Bird 50 was sold on day 18 for $149.40
+Cat 22 was sold on day 18 for $130.80
+Dog 44 was sold on day 18 for $261.60
+Dog 43 was sold on day 18 for $52.00
+Bird 46 was sold on day 18 for $66.00
+Bird 48 was sold on day 19 for $146.00
+Bird 51 was sold on day 20 for $38.00
+Dog 45 was sold on day 20 for $274.00
+Cat 65 was sold on day 20 for $222.40
+Ferret 55 was sold on day 20 for $194.00
+Ferret 57 was sold on day 20 for $236.00
+Ferret 52 was sold on day 21 for $142.20
+Ferret 60 was sold on day 21 for $73.40
+Cat 66 was sold on day 22 for $240.40
+Snake 61 was sold on day 22 for $206.60
+Ferret 54 was sold on day 23 for $75.20
+Dog 76 was sold on day 23 for $39.60
+Snake 63 was sold on day 23 for $181.00
+Ferret 56 was sold on day 23 for $34.00
+Dog 75 was sold on day 24 for $156.20
+Dog 77 was sold on day 24 for $300.00
+Snake 71 was sold on day 24 for $170.00
+Snake 62 was sold on day 24 for $166.00
+Dog 73 was sold on day 24 for $202.40
+Snake 67 was sold on day 26 for $72.00
+Snake 69 was sold on day 26 for $124.00
+Snake 68 was sold on day 26 for $127.40
+Cat 64 was sold on day 26 for $253.20
+Cat 79 was sold on day 28 for $240.00
+Snake 70 was sold on day 28 for $92.00
+Ferret 58 was sold on day 28 for $191.60
+Ferret 53 was sold on day 29 for $55.40
+Dog 74 was sold on day 30 for $256.00
+Dog 78 was sold on day 30 for $149.00
+Value of all items sold, worth $21,395.20
+
+Pets left in sick inventory:
+
+Amount of money left in the Cash Register: $15,095.20
+
+Amount of money withdrawn from the Bank: $1,000.00

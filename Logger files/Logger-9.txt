@@ -1,0 +1,13 @@
+Randal arrives at store.
+Alpa arrives at store.
+3 items were processed
+$4929.599999999999 is in the cash register
+There are 22 items in the inventory.
+There is $1360.0 worth of value in the inventory.
+Clerk Randal sold 3 items today
+Trainer Alpa sold 3 items today
+Clerk Randal sold 431.0$ worth of items today
+Trainer Alpa sold 610.8$ worth of items today
+There were 5 customers that visited the store today
+Alpa has left the store
+Randal has left the store

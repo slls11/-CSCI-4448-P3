@@ -1,0 +1,15 @@
+Randal arrives at store.
+Kirk arrives at store.
+3 items were processed
+$8501.399999999998 is in the cash register
+There were 3 total pets ordered
+There were 3 total supplies ordered
+There are 12 items in the inventory.
+There is $541.0 worth of value in the inventory.
+Clerk Randal sold 1 items today
+Trainer Kirk sold 3 items today
+Clerk Randal sold 144.0$ worth of items today
+Trainer Kirk sold 312.2$ worth of items today
+There were 6 customers that visited the store today
+Kirk has left the store
+Randal has left the store

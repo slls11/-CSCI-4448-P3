@@ -1,0 +1,15 @@
+Jason arrives at store.
+Kirk arrives at store.
+0 items were processed
+$1000.0 is in the cash register
+$1000.0 is in the cash register after going to the bank
+$1000.0 is in the cash register
+There are 30 items in the inventory.
+There is $1730.0 worth of value in the inventory.
+Clerk Jason sold 1 items today
+Trainer Kirk sold 5 items today
+Clerk Jason sold 277.0$ worth of items today
+Trainer Kirk sold 783.0000000000001$ worth of items today
+There were 4 customers that visited the store today
+Kirk has left the store
+Jason has left the store

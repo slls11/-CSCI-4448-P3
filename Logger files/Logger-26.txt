@@ -1,0 +1,13 @@
+Jason arrives at store.
+Alpa arrives at store.
+9 items were processed
+$12628.999999999998 is in the cash register
+There are 27 items in the inventory.
+There is $1228.0 worth of value in the inventory.
+Clerk Jason sold 5 items today
+Trainer Alpa sold 2 items today
+Clerk Jason sold 608.0$ worth of items today
+Trainer Alpa sold 380.6$ worth of items today
+There were 5 customers that visited the store today
+Alpa has left the store
+Jason has left the store

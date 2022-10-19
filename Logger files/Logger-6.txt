@@ -1,0 +1,15 @@
+Dante arrives at store.
+Alpa arrives at store.
+15 items were processed
+$3576.6 is in the cash register
+There were 3 total pets ordered
+There were 3 total supplies ordered
+There are 22 items in the inventory.
+There is $1138.0 worth of value in the inventory.
+Clerk Dante sold 2 items today
+Trainer Alpa sold 2 items today
+Clerk Dante sold 330.0$ worth of items today
+Trainer Alpa sold 143.6$ worth of items today
+There were 4 customers that visited the store today
+Alpa has left the store
+Dante has left the store

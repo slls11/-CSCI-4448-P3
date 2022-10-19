@@ -1,4 +1,4 @@
-### Justin Sperry & Slav Ivanovich
+### Slav Ivanovich & Justin Sperry
 ### Project 3
 ##### CSCI 4448 - Summer 2022
 
